@@ -48,6 +48,14 @@ public class HistoryFragment extends Fragment {
         places.add(new Place(R.drawable.martinsgate, R.string.martinsgate_name,
                 R.string.martinsgate_description, getString(R.string.martinsgate_lat),
                 getString(R.string.martinplaque_long)));
+        places.add(new Place(R.drawable.munster, R.string.munster_name, R.string.munster_description,
+                getString(R.string.munster_lat), getString(R.string.munster_long)));
+        places.add(new Place(R.drawable.barricade, R.string.barricade_name,
+                R.string.munster_description, getString(R.string.munster_lat),
+                getString(R.string.munster_long)));
+        places.add(new Place(R.drawable.sternwald, R.string.sternwald_name,
+                R.string.sternwald_description, getString(R.string.sternwald_lat),
+                getString(R.string.sternwald_long)));
 
         //PlaceAdapter that uses the list of places as data source.
         PlaceAdapter pa = new PlaceAdapter(getContext(), places);

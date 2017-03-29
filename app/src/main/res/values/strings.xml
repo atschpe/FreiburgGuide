@@ -96,6 +96,28 @@ https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
     <string name="martinsgate_lat" translatable="false">47.993775</string>
     <string name="martinsgate_long" translatable="false">7.849031</string>
 
+    <string name="munster_name">Tambur Graffiti at the Munster</string>
+    <string name="munster_description">Graffiti by a German speaking drummer (tambur not tambour) of
+        the Napoleanic Army 1810 on the outer wall of the munster choir.\n\nInscription:
+        \n\"Tambur Hagenbuch 1810\"</string>
+    <string name="munster_lat" translatable="false">47.995489</string>
+    <string name="munster_long" translatable="false">7.852983</string>
+
+    <string name="barricade_name">Square of the Last Barricade</string>
+    <string name="barricade_description">Square of the last barricade during the 1848 Revolution
+        near the Schwabentor.</string>
+    <string name="barricade_lat" translatable="false">47.9929</string>
+    <string name="barricade_long" translatable="false">7.854033</string>
+
+    <string name="sternwald_name">Sternwald Memorial</string>
+    <string name="sternwald_description">Memorial stone near Günterstal commemorating the freedom
+        fighters who were killed on April 23, 1884 by government forces\n\nInscription:\n\"In
+        memory of the fighters for freedom and democracy who fell in the fight against government
+        forces on Easter Sunday, 1848.\"</string>
+    <string name="sternwald_lat" translatable="false">47.970931</string>
+    <string name="sternwald_long" translatable="false">7.852028</string>
+
+
 
     <!-- Jewish history-->
     <string name="gurs_name">Gurs Memorial Sign Post</string>
