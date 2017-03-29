@@ -117,6 +117,32 @@ https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
     <string name="sternwald_lat" translatable="false">47.970931</string>
     <string name="sternwald_long" translatable="false">7.852028</string>
 
+    <string name="dortus_name">Mausoleum for Maximilian Dortus</string>
+    <string name="dortus_description">The Mausoleum of Maximilian Dortus, German revolutionary of
+        1848-49 shot by government troops at the very place in the Wiehre cemetry.</string>
+    <string name="dortus_lat" translatable="false">47.985811</string>
+    <string name="dortus_long" translatable="false">7.857147</string>
+
+    <string name="soldiermem_name">Memorial for fallen Soldier (1848)</string>
+    <string name="soldiermem_description">Memorial stone erected in the od cemetry for the soldiers
+        who died during the siege of Freiburg in 1848. The grand duke ordered the stone, which was
+        donated by the comrades of the fallen, to be turned so that the inscription could not be
+        read from the road.\n\nInscription:\n\"In memory of those fallen at the assault on Freiburg
+        on 24th April 1848, by their comrades-in-arms.\"</string>
+    <string name="soldiermem_lat" translatable="false">48.000625</string>
+    <string name="soldiermem_long" translatable="false">7.857602</string>
+
+    <string name="bombattack_name">Marks of the WW I Bomb Attack</string>
+    <string name="bombattack_description">Marks found on College Building I of the Freiubrg
+        university, caused by the British bomb attack from 14th April 1917.</string>
+    <string name="bombattack_lat" translatable="false">47.993697</string>
+    <string name="bombattack_long" translatable="false">7.846094</string>
+
+    <string name="university_name">Where The Imperial Eagle once soared.</string>
+    <string name="university_description">Place at the wall of the university building where the eagle of the Third Reich once hung.</string>
+    <string name="university_lat" translatable="false">47.993806</string>
+    <string name="university_long" translatable="false">7.845594</string>
+
 
 
     <!-- Jewish history-->

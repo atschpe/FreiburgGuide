@@ -57,4 +57,12 @@
     <string name="barricade_description">Gedenktafel in der Nähe des Schwabentors, an dem zu Ostern 1848 die letzte Barrikade der Freiheitskämpfer stand.</string>
     <string name="sternwald_name">Sternwaldgedenkstein</string>
     <string name="sternwald_description">Gedenkstein bei Günterstal, welches an die Freiheitskämpfer erinnert, die am 23. April, 1884, von Regierungstruppen getötet wurden.\n\nInschrift:\n\"Zur Erinnerung an die am Ostersonntag 1848 hier im Gefecht mit Regierungstruppen gefallenen Kämpfer für Freiheit und Demokratie.\"</string>
+    <string name="dortus_name">Maximilian Dortus Mausoleum</string>
+    <string name="dortus_description">Mausoleum Maximilian Dortus, Deutscher Revolutionär 1848–49, auf dem alten Wiehrefriedhof an der Stelle, wo er erschossen wurde.</string>
+    <string name="soldiermem_name">Gedenkstein für die gefallenen Soldaten (1848)</string>
+    <string name="soldiermem_description">Gedenkstein für die bei der Belagerung zu Ostern 1848 gefallenen badischen Soldaten auf dem Alten Friedhof. Der von den Kameraden gestiftete Stein musste auf Anordnung des Großherzogs so gedreht werden, dass die Inschrift vom Wege aus nicht einzusehen war.\n\nInschrift:\n\"Zur Erinnerung an die am 24. April 1848 bei dem Sturm auf Freiburg Gefallenen von ihren Waffengefährten.\"</string>
+    <string name="bombattack_name">Spuren der Bombenangriffe vom ersten Weltkrieg</string>
+    <string name="bombattack_description">Spuren des britischen Bombenangriffs vom 14. April 1917 am Kollegiengebäude I der Universität.</string>
+    <string name="university_description">Stelle an der Außenwand des Universitätsgebäudes, an der einst der Hoheitsadler des Dritten Reiches angebracht war.\n</string>
+    <string name="university_name">Wo der Reichadler einst schwebte.</string>
 </resources>
