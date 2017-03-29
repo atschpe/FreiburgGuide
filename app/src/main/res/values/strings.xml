@@ -81,19 +81,21 @@ https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
     <string name="breisachertor_long" translatable="false">7.847719</string>
 
     <string name="loretto_name">Loretto Chapel</string>
-    <string name="loretto_description">"Cannon ball, that would have hit Louis XV on his observation post during his siege of Freiburg in 1744, stuck in the wall of Loretto's Chapel.\n    "</string>
+    <string name="loretto_description">"Cannon ball, that would have hit Louis XV on his observation
+        post during his siege of Freiburg in 1744, stuck in the wall of Loretto's Chapel.\n"</string>
     <string name="loretto_lat" translatable="false">47.981375</string>
     <string name="loretto_long" translatable="false">7.838544</string>
 
-    <string name="martinsgate_name"></string>
-    <string name="martinsgate_description"></string>
-    <string name="martinsgate_lat">47.993775</string>
-    <string name="martinsgate_long">7.849031</string>
-    * English: Plate at the Martin's Gate commemorating the soldiers who died for Emperor and Fatherland fighting against the French revolutionary armies in 1796
-    Deutsch: Gedenktafel am Martinstor für gegen die Revolutionsarmee gefallene Bürgermilizen. Gedenktafel am Martinstor für die im Kampf gegen die französische Revolutionsarmee gefallenen Bürgermilizen des Breisgaus.
-    Die Gedenktafel über dem Torbogen erinnert noch heute an die Kämpfe zwischen der Freiburger Bürgerwehr, die 1793 neu gegründet wurde und Revolutionstruppen aus Frankreich. Die Inschrift der Gedenktafel lautet:
-    „Denkmal der freiwilligen Freiburgs unter Major und Stadtrath Caluri und allen Waffenbrüdern des österreichischen Breisgaus, die sich durch Treue und Tapferkeit den 7. Juli 1796 für Kaiser und Vaterland kämpfend auszeichneten. Gewidmet von ihrem General Freiherrn von Duminique.“
-    > Franz_revolutionskrieg_1796
+    <string name="martinsgate_name">Martin\'s Gate</string>
+    <string name="martinsgate_description">The plate above the archway commemorates until today the
+        battle between the Freiburg militia, that was founded in 1793, and the revultionary troops
+        from France. \n\nThe inscription:\n\"Monument to the volunteers of Freiburg under the major
+        and city councilor Caluri and all the comrades-in-arms of Austria Breisgau, who honored
+        themselves by their loyalty and bravery on 7th July 1796, for emperor and fatherland.
+        Dedicated by their general baron von Duminique.\"</string>
+    <string name="martinsgate_lat" translatable="false">47.993775</string>
+    <string name="martinsgate_long" translatable="false">7.849031</string>
+
 
     <!-- Jewish history-->
     <string name="gurs_name">Gurs Memorial Sign Post</string>
