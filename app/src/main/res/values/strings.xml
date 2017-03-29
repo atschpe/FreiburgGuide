@@ -1,0 +1,249 @@
+<!-- Resources used:
+http://www.bluespot.de/en/Freiburg/categories/74-attractions/pois/2540-gerichtslaube?page=2
+http://www.historisches-freiburg.de/innenstadt/bauwerke/martinstor/
+https://de.wikipedia.org/wiki/Geschichte_der_Stadt_Freiburg_im_Breisgau
+https://www.geocaching.com/geocache/GC2D7V6_freiburger-geschichten-blutiges-ostern?guid=5ac1433e-f9af-4cdc-97f3-7d602c215061
+https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
+-->
+<resources>
+    <!-- App name [CHAR-LIMIT=20} -->
+    <string name="app_name">Freiburg Guide</string>
+    <string name="title_activity_maps">Details</string>
+
+    <!-- API key for google maps -->
+    <string name="google_maps_key">AIzaSyDFJ0OXkYbA9fxdkrRA98S-476i42rekuE</string>
+
+    <!-- Fragment titles [CHAR-LIMIT=20} -->
+    <string name="history_fragment">History</string>
+    <string name="jew_fragment">Jewish History</string>
+    <string name="info_fragment">Good To Know</string>
+    <string name="excursion_fragment">Excursions</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- History of Freiburg -->
+    <string name="ludwigshohe_name">Ludwigshöhe</string>
+    <string name="lugwigshohe_description">"Ludwigshöhe on the Schlossberg (castle mountain).
+        \n\nInscription:\n\"Ludwigshöhe. The duke of Zähringen, builder and founder of Freiburg in
+        the year MCXX. Eternally grateful to the high descendant, our Ludwig great duke of Baden.
+        \nFaithfully admired by the citizens of this oldest, first city of Zähringen.To joyously
+        remember the VII. jubilee of the foundation. Lovingly dedicated on Ludwig Day Aug. MDCCCXX.
+        solemnly inaugurated.\""</string>
+    <string name="ludwigshohe_lat" translatable="false">47.993708</string>
+    <string name="ludwigshohe_long" translatable="false">7.858219</string>
+
+    <string name="citywall_name">Old City Wall</string>
+    <string name="citywall_description">Pavement inscription, that indicates the course ofthe city
+        wall south west of the Augustiner museum.\n\ninscription:\n\"Old city wall until ca.
+        1825\"</string>
+    <string name="citywall_lat" translatable="false">47.9937</string>
+    <string name="citywall_long" translatable="false">7.852275</string>
+
+    <string name="kaufhaus_name">Historic Merchants Hall</string>
+    <string name="kaufhaus_description">The Historic Merchants Hall in Freiburg dates to 1520-21.
+        The front facade is decorated with statues and coats of arms that were sculpted between
+        1520 and 1531 by Sixt von Staufen. The sculpted figures under baldachins show Emperor
+        Maximilian I, King Philipp the Beautiful of Castile, Emperor Charles V and Emperor Ferdinand
+        I - all Hapsburgs.</string>
+    <string name="kaufhaus_lat" translatable="false">47.994953</string>
+    <string name="kaufhaus_long" translatable="false">7.852890</string>
+
+    <string name="gerichtslaube_name">Gerichtslaube</string>
+    <string name="gerichtslaube_description">The Gerichtslaube where in 1498 the Reichstag was held
+        \n\nA small gem from Freiburg’s past is located in the rear courtyard of the Old Town Hall,
+        accessible from the Turmstrasse. It is the Gerichtslaube (court house), which was used for
+        municipal matters at the beginning of Freiburg’s development. Between 1280 and 1300 the
+        free-standing gabled house was built and originally used as a courtroom and a place where
+        leading Freiburg citizens and aristocrats gathered. There was even a small jail in the
+        cellar vaults.</string>
+    <string name="gerichtslaube_lat" translatable="false">47.996076</string>
+    <string name="gerichtslaube_long" translatable="false">7.849318</string>
+
+    <string name="martinplaque_name">Plaques on Martins Gate</string>
+    <string name="martinplaque_description">Plaques on Martin\'s Gate about its origins and the
+        burning of witches\n\nInscription (left):\nMartin\'s Gate\nInitially Norsinger Gate.
+        Oldest preserved fortified tower and gate from the medieval castle (beginning of 13th
+        century). Restructured by C. Schäfer from 1901–03. Fully renovated in 1998.\n\n(right):
+        \nBurning of witches\nMargaretha Mößmerin \nCatharina Stadellmentin\nAnna Wolffartin
+        \nbeheaded and burned on 24th March 1599.\n\nThe City of Freiburg in Breisgau honour their
+        memory at this location as well as all women, who fell victim to the witch persecutions.
+        The suffering of these and all innocently tortured people is a living reprimand for
+        tolerance and humanity.\n</string>
+    <string name="martinplaque_lat" translatable="false">47.993725</string>
+    <string name="martinplaque_long" translatable="false">7.848975</string>
+
+    <string name="breisachertor_name">Breisach Town Gate</string>
+    <string name="breisachertor_description">One of the few remaining remnants of the fortification
+        of Freiburg by Vauban. The former entry to the Breisach gate is now the entrance for a
+        restaurant.\n</string>
+    <string name="breisachertor_lat" translatable="false">47.992242</string>
+    <string name="breisachertor_long" translatable="false">7.847719</string>
+
+    <string name="loretto_name">Loretto Chapel</string>
+    <string name="loretto_description">"Cannon ball, that would have hit Louis XV on his observation post during his siege of Freiburg in 1744, stuck in the wall of Loretto's Chapel.\n    "</string>
+    <string name="loretto_lat" translatable="false">47.981375</string>
+    <string name="loretto_long" translatable="false">7.838544</string>
+
+    <string name="martinsgate_name"></string>
+    <string name="martinsgate_description"></string>
+    <string name="martinsgate_lat">47.993775</string>
+    <string name="martinsgate_long">7.849031</string>
+    * English: Plate at the Martin's Gate commemorating the soldiers who died for Emperor and Fatherland fighting against the French revolutionary armies in 1796
+    Deutsch: Gedenktafel am Martinstor für gegen die Revolutionsarmee gefallene Bürgermilizen. Gedenktafel am Martinstor für die im Kampf gegen die französische Revolutionsarmee gefallenen Bürgermilizen des Breisgaus.
+    Die Gedenktafel über dem Torbogen erinnert noch heute an die Kämpfe zwischen der Freiburger Bürgerwehr, die 1793 neu gegründet wurde und Revolutionstruppen aus Frankreich. Die Inschrift der Gedenktafel lautet:
+    „Denkmal der freiwilligen Freiburgs unter Major und Stadtrath Caluri und allen Waffenbrüdern des österreichischen Breisgaus, die sich durch Treue und Tapferkeit den 7. Juli 1796 für Kaiser und Vaterland kämpfend auszeichneten. Gewidmet von ihrem General Freiherrn von Duminique.“
+    > Franz_revolutionskrieg_1796
+
+    <!-- Jewish history-->
+    <string name="gurs_name">Gurs Memorial Sign Post</string>
+    <string name="gurs_description">Memorial remembering the deportation of the Jews to the
+        concentration camp in Gurs (South France) in the form of a sign post.</string>
+    <string name="gurs_lat" translatable="false">47.995228</string>
+    <string name="gurs_long" translatable="false">7.846164</string>
+
+    <string name="buerckel_name">Wagner Bürckel Memorial</string>
+    <string name="buerckel_description">Memorial at the place of the old synagogue in Freiburg for
+        the so called Wagner-Bürckel campaign, where Jews from Baden and Palatinate regions were
+        deported. \n\nThe inscription:\n\"On the 22nd October 1940, in only a few hours 6,504 jewish
+        men, women and children from Baden and Palatinate were brought to central concentration
+        camps and from there deported to camp Gurs in southern france. The oldest was 97 years old.
+        Among them were about 300 jewish fellow citizens from Freiburg.\n\nThose who didn’t die
+        because of hunger and diseases, were deported mainly to the eastern extermination camps
+        Auschwitz and Maidanék from August 1942 on. Over 5,200 of those deported to Gurs died as
+        victims of violence.\n\nToo many have then looked away, too few have resisted.
+        This must not and will not be repeated.</string>
+    <string name="buerckel_lat" translatable="false">47.995228</string>
+    <string name="buerckel_long" translatable="false">7.846164</string>
+
+    <string name="stolpersteine_name">"Stumbling Stones"</string>
+    <string name="stolpersteine_description">Stumbling Stones are memorial plaques found all across
+        Freiburg in memory of each Jew who lived at that address. They include their names, birth,
+        deportation and/or death date. This is the biggest cluster of six stumbling stones found at
+        Eisenbahnstraße 66 commemorating members of the families Abraham and Grumbacher.</string>
+    <string name="stolpersteine_lat" translatable="false">47.997319</string>
+    <string name="stolpersteine_long" translatable="false">7.843346</string>
+
+    <string name="blauebrucke_name">Memorial on the "Blaue Brücke"</string>
+    <string name="blauebrucke_description">Memmorial remembering the Jewish citizens from Freiburg
+        and surroundings, who were deported to Gurs, France, on 22/10/1940.\n\nThe inscription:
+        \n\"22/10/1940 over 450 Jews from Freiburg and the area were deported on the order of the
+        National Socialist regional adminsitrator from the warehouse of the station of the time to
+        the South French camp Gurs.\nMany of them already died in Gurs due to hunger and illnesses,
+        most were murdered in the extermination camp Auschwitz.\n\nCity of Freiburg, October
+        2003\"</string>
+    <string name="blauebrucke_lat" translatable="false">47.996014</string>
+    <string name="blauebrucke_long" translatable="false">7.840006</string>
+
+    <string name="hebelschule_name">Memorial at the Hebel School</string>
+    <string name="hebelschule_description">Memorial marker on the Hebel School in Freiburg, Germany.
+        Jews from southern Germany were assembled in the schoolyard on October 22, 1940, immediately
+        prior to walking to the nearby train station and then being transported to the concentration
+        camp at Gurs, France.\n\nThe inscription:\n\n\"22/10/1940 here in the Hebel school yard many
+        hundreds of Jews from South Germany were taken into custody and transported to Gurs for
+        inihalation. \n\nIn memory and to always remember.\n\nNever again Fashism\nNever again
+        National Socialism\nNever again xenophobia.</string>
+    <string name="hebelschule_lat" translatable="false">47.997503</string>
+    <string name="hebelschule_long" translatable="false">7.835736</string>
+
+    <string name="vordtriede_name">"Käthe-Vordetreide-Weg" road sign</string>
+    <string name="vordtriede_description">" Riesefeld is a new suburb of Freiburg, that took the
+        opportunity of creating new street names to commemorate a Jewish citizen from WW II.
+        \n\nThe inscription:\n\"K. Vortriede 1891–1964, jorunalist in Freiburg, Jew and Social
+        Democrate was forced to emigrate in 1939. Author of letters critical of the time.\""</string>
+    <string name="vordtriebe_lat" translatable="false">47.998016</string>
+    <string name="vordtriebe_long" translatable="false">7.785265</string>
+
+    <string name="oldsyn_name">Memorial for the destroyed synagogue</string>
+    <string name="oldsyn_description">In front of the college building II of the Freiburg university
+        is this memorial commemorating the old synagogue that stood here, that was destroyed during
+        WW II.\n\n The inscription:\n \"Here stood the synagogue of the Israeli community of
+        Freiburg. Built in 1870 it was destroyed 10th November, 1938, under a reign of violence
+        and injustice.\"</string>
+    <string name="oldsyn_lat" translatable="false">47.994504</string>
+    <string name="oldsyn_long" translatable="false">7.846062</string>
+
+    <string name="synplaque_name">Plaque on exterior wall of New Synagogue</string>
+    <string name="synplaque_description">Memorial for the deportation of the Jews in Freiburg on 22
+        October 1940, mounted on the exterior wall of Freiburg\'s new synagogue by the city of
+        Freiburg in 1990.\n\nThe inscription:\n\"Earth, do not cover my blood and may my cry never
+        be laid to rest. Job 16,18\n\nOn 22nd October, 1940 the Jewish citizens of city Freiburg
+        were deportet to Gurs in Sotuh France under the NS-Diktatur regime. The city remembers in
+        shame and grief. Freiburg, 22nd October 1990.\"</string>
+    <string name="synplaque_lat" translatable="false">47.996394</string>
+    <string name="syplaque_long" translatable="false">7.853619</string>
+
+    <string name="newsyn_name">Plaque at entrance of the New Synagogue</string>
+    <string name="newsyn_description">Plaque at the entrance to Freiburg\'s new synagogue, dedicated
+        on November 5, 1987.\n\nInscription:\n\"The Freiburg Synagogue, after pillage and destruction
+        during the NS-era, was re-edified and dedicated on November 5th, 1987.\n\nmy house will be
+        called a house of prayer for all nations. Is 56,7\"</string>
+    <string name="newsyn_lat" translatable="false">47.996394</string>
+    <string name="newsyn_long" translatable="false">7.853619</string>
+
+    <string name="schelenz_name">Schelenz Memorial</string>
+    <string name="schelenz_description">Walter Schelenz, Mahnmal für die Opfer des
+        Nationalsozialismus, 1975, –  Rotteckring, Platz der Alten Synagoge.</string>
+    <string name="schelenz_lat" translatable="false">47.996078</string>
+    <string name="schelenz_long" translatable="false">7.846633</string>
+
+    <string name="annaplatz_name">Memorial of the Jewish Deportation at the Anna Square</string>
+    <string name="annaplatz_description">Memorial for the Jewish deportation to Gurs at the Anna
+        square in Freiburg\n\nInscription:\nCitizens from the Baden, Palatinate and Saar Region of
+        Jewish beliefs or those who were declared Jewish by the inhuman race ideology were deported
+        under the terror regime of National Socialism.\n\nThe abduction of the women, men and
+        children from the Wiehre suburb concerned started in this place infront of all eyes, taking
+        them to the South French concentration camp Gurs.\n\nMost died there from the inhuman camp
+        conditions or were murdered later.\"</string>
+    <string name="annaplatz_lat" translatable="false">47.985164</string>
+    <string name="annaplatz_long" translatable="false">7.845881</string>
+
+    <string name="herder_name">Memorial by Herder Edition</string>
+    <string name="herder_description">Infront of the college building II of the Freiburg University
+        is the memorial donated by the Herder Edition. \n\nThe two lying stone slabs have the
+        inscription:\n\"In gratitude for the preservation of the city and munster on 27th November,
+        1944 and in memory of the synagogue.\"</string>
+    <string name="herder_lat" translatable="false">47.994575</string>
+    <string name="herder_long" translatable="false">7.846214</string>
+
+    <string name="cemetry_name">Momuent at the Jewish Cemetry</string>
+    <string name="cemetry_description">Denkmal für die jüdischen Opfer der Gewaltherrschaft von
+        1933 - 1945.\n\nInschriftentafel:\n\"Den jüdischen Opfern der Gewaltherrschaft
+        1933 – 1945\"</string>
+    <string name="cemetry_lat" translatable="false">48.012443</string>
+    <string name="cemetry_long" translatable="false">7.828644</string>
+
+    <string name="zwangsschule_name">Memorial Plaques at Lessing School</string>
+    <string name="zwangsschule_description">Memorial at the site of the compulsory school for Jewish
+        children from Freiburg and the surrounding region that operated from October 21, 1936, until
+        the Reichskristallnacht on November 10, 1938.\n\nfirst plaque:\n\"In memory and as warning
+        \nCompulsory school for Jewish children\n\nJewish children from Freiburg and the surrounding
+        region were taught here, because they were not allowed to attend general schools due to the
+        racist laws. The students, their family and teachers were up against the national
+        socialistic persecution and extermination politics. Thanks to brae people form the
+        resistance many of these children could survive, but not their relatives.\nThe rescuers are
+        an example of tolerance and civil courage to us. We mourn with the rescued for the murdered.
+        \n✡\nFrom 21st October, 1936 to the Reichsprogromnacht on 10th November 1938 the compulsory
+        school was accommodated in this building. From March 1939 until the deportations to Gurs in
+        South West Fance on 22nd October 1940 lessons were held in the Jewish community house next
+        to the synagogue at the Werthmann Square.\nOctober 2004\"\n\nsecond plaque:\n\"Over 60
+        Jewish students kam\n\nfrom Breisach Raplh Eisemann, Bianca Gelsmar,Werner Geisamer, Günther
+        Levy, Gretel Levy, Ruth Levy, Rosi Uffenheimer, Alex Wurmser, Alfred Weil, from Eichstetten
+        Wittrude Hene, Ilse Weil, from Emmendingen Alfred Geismar, Else Geismar, Lore Grünebaum,
+        Hugo Günzburger, Lisbeth Günzburger, Susi Günzburger, Herta Weil, Margot Weil, from Freiburg
+        Heinrich Alpern, Alice Bloch, Rudolf Bloch, Walter Bloch, Herbert Burger, Marlene Goldstein,
+        Gertrude Günzburger, Nelly Heilbrunner, Ilse Judas, Renate Kaufmann, Walter Kaufmann, Ruth
+        Mayer, Max Plaut, Hanna Reichmann, Hede Reutlinger, Rita Rosenberger, Esther Schärf, Manfred
+        Schärf, Leo Wertheimer, from Friesenheim Richard Levi, from Haslach Eugen Moses, Helmut
+        Moses,\"\n\nthird plaque:\n\"from Ihringen Anneliese Judas, Karl Judas, Gretel Judas,
+        Ingeborg Judas, Kurt Judas, Kurt Lion, from Kenzingen Alice Dreifuß, from Kippenheim Heinz
+        Maier, Kurt Maier, Flora Wertheimer, from Müllheim Rolf Zivi, Wolfgang Zivi, from Offenburg
+        Esther Cohn, Eva Cohn, Myriam Cohn, Susi Greilsheimer, Renate Haberer, Hedwig Hammel,
+        Ingeborg Hammel, Rudolf Hammer, Kurt Hammel, Hannelore Kahn, Margot Kramer, Selma Maier,
+        from Sohmieheim Egon Bloch, Lore Bloch, Margot Dreyfuss, from Villingen Lotte Schwab, …
+        \n\nThe teachers\nDr. Alice Weil-Mendel, Alfred Kaufmann, Adolf Reutlinger, Klara Maier,
+        Dr. Ilse Hamburger, Professor Maier and Herr Strauß.\nJuly 2006\"</string>
+    <string name="zwangsschule_lat" translatable="false">47.989753</string>
+    <string name="zwangsschule_long" translatable="false">7.847206</string>
+
+</resources>
