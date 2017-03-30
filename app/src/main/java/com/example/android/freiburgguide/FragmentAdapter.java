@@ -32,23 +32,12 @@ public class FragmentAdapter extends FragmentPagerAdapter {
      **/
     @Override
     public Fragment getItem(int position) {
-        switch (position) {
-            case 0:
-                return new HistoryFragment();
-            case 1:
-                return new JewFragment();
-            case 2:
-                return new InfoFragment();
-            case 3:
-                return new ExcursionFragment();
-        }
-
         if (position == 0) {
             return new HistoryFragment();
         } else if (position == 1) {
             return new JewFragment();
         } else if (position == 2) {
-            return new InfoFragment();
+            return new PlaqueFragment();
         } else {
             return new ExcursionFragment();
         }
@@ -67,7 +56,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return mContext.getString(R.string.jew_fragment);
         } else if (position == 2) {
-            return mContext.getString(R.string.info_fragment);
+            return mContext.getString(R.string.plaque_fragment);
         } else {
             return mContext.getString(R.string.excursion_fragment);
         }

@@ -3,7 +3,6 @@ package com.example.android.freiburgguide;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -49,8 +48,8 @@ public class PlaceAdapter extends ArrayAdapter {
         final Place currentPlace = this.places.get(position);
 
         //Locate ImageView for the current place in the list_item layout.
-        ImageView placeImage = (ImageView) listViewItem.findViewById(R.id.place_image);
-        placeImage.setImageResource(currentPlace.getPlaceImage());
+        ImageView placeThumbnail = (ImageView) listViewItem.findViewById(R.id.place_thumbnail);
+        placeThumbnail.setImageResource(currentPlace.getPlaceThumbnail());
 
         //Locate TextView for the current place name in the list_item.
         TextView placeName = (TextView) listViewItem.findViewById(R.id.place_name);
@@ -64,9 +63,6 @@ public class PlaceAdapter extends ArrayAdapter {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getContext(), MapsActivity.class);
-
-                Log.v("PlaceAdapter", "place lat." + currentPlace.getPlaceLat());
-                Log.v("PlaceAdapter", "place long." + currentPlace.getPlaceLong());
 
                 Bundle placeBundle = new Bundle();
                 placeBundle.putInt("place image", currentPlace.getPlaceImage());

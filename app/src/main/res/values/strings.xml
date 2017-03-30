@@ -16,7 +16,7 @@ https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
     <!-- Fragment titles [CHAR-LIMIT=20} -->
     <string name="history_fragment">History</string>
     <string name="jew_fragment">Jewish History</string>
-    <string name="info_fragment">Good To Know</string>
+    <string name="plaque_fragment">Plaques Translations</string>
     <string name="excursion_fragment">Excursions</string>
 
     <!-- TODO: Remove or change this placeholder text -->
@@ -139,10 +139,10 @@ https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
     <string name="bombattack_long" translatable="false">7.846094</string>
 
     <string name="university_name">Where The Imperial Eagle once soared.</string>
-    <string name="university_description">Place at the wall of the university building where the eagle of the Third Reich once hung.</string>
+    <string name="university_description">Place at the wall of the university building where the
+        eagle of the Third Reich once hung.</string>
     <string name="university_lat" translatable="false">47.993806</string>
     <string name="university_long" translatable="false">7.845594</string>
-
 
 
     <!-- Jewish history-->
@@ -295,5 +295,7 @@ https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
         Dr. Ilse Hamburger, Professor Maier and Herr Strauß.\nJuly 2006\"</string>
     <string name="zwangsschule_lat" translatable="false">47.989753</string>
     <string name="zwangsschule_long" translatable="false">7.847206</string>
+
+    <!--Plaques transcriptions/translations -->
 
 </resources>
