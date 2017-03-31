@@ -62,7 +62,7 @@ public class PlaceAdapter extends ArrayAdapter {
         listViewItem.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getContext(), MapsActivity.class);
+                Intent i = new Intent(getContext(), InfoActivity.class);
 
                 Bundle placeBundle = new Bundle();
                 placeBundle.putInt("place image", currentPlace.getPlaceImage());

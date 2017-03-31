@@ -4,6 +4,7 @@ http://www.historisches-freiburg.de/innenstadt/bauwerke/martinstor/
 https://de.wikipedia.org/wiki/Geschichte_der_Stadt_Freiburg_im_Breisgau
 https://www.geocaching.com/geocache/GC2D7V6_freiburger-geschichten-blutiges-ostern?guid=5ac1433e-f9af-4cdc-97f3-7d602c215061
 https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
+https://commons.wikimedia.org/wiki/Category:Plaques_in_Freiburg_im_Breisgau
 -->
 <resources>
     <!-- App name [CHAR-LIMIT=20} -->
@@ -297,5 +298,62 @@ https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
     <string name="zwangsschule_long" translatable="false">7.847206</string>
 
     <!--Plaques transcriptions/translations -->
+    <string name="lenel_name">Plaque for Otto Lenel</string>
+    <string name="lenel_description">Plaque for Otto Lenel in front of his former house in Freiburg
+        im Breisgau, Holbeinstraße 5\n\nInschrift:\n\"Professor of Roman rights Otto Lenel 1849–1935
+        lived in this house from 1909 onwards.\"</string>
+    <string name="lenel_lat" translatable="false">47.982048</string>
+    <string name="lenel_long" translatable="false">7.845118</string>
+
+    <string name="predigerkloster_name">Convent of Preacher</string>
+    <string name="predigerkloster_description">Information plaque saying:\n\"Here stood the Convent
+        for Preachers from the middle of the 13th century until its abolition in 1794, a glowing
+        place for medieval research and religion. Even Albertus Magnus, one of the leading spirits
+        of the Western World taught ecclesial and secular earls within these walls. 1492 emperor
+        Maximilian was received a friendly reception. In the frigthful night of 27th November, 1944
+        the remains of the convents sank to rubble.\"</string>
+    <string name="predigerkloster_lat" translatable="false">47.997603</string>
+    <string name="predigerkloster_long" translatable="false">7.848494</string>
+
+    <string name="cityhall_name">Plaque at Old City Hall</string>
+    <string name="cityhall_description">Plaque offering details about the new and old town hall as
+        well as the court house:\n\n\"New Town Hall\nthe new town hall, located between Rathausgasse
+        and Turmstraße was created in its current form by converting the old town houses
+        \"Zum Phönix\"(the Phoenix) and \"Zum Rechen\" (the Rake). It was the main college building
+        of the university between 1578 and 1774. The baroque furnished auditorium on the first floor
+        and the original entry gate of the university, which is now found to the rear of the
+        courtyard, where builtduring this period and survive to this day.\nThe building was home to
+        various university institutes during the 19th century, e.g. anatomy. After the comprehensive
+        extensions from 1896 to 1901 – a council hall corridor was added above the entry and the
+        little bell tower – the city administration moved into the building. An extenvie renovation
+        was completed in  2000/2001 thanks to donations from the township and economy.\n\nOld Town
+        Hall\nThe Northerly situationed old town hall is linked to the new town hall by a bridge.
+        The Freiburg town clerk worked here as early as the 13th century. The current house was
+        built between 1556 and 1561. It was linked to two other town houses at a later date. All
+        that remains from the initial construction is the crypt of the Klarissa Covenant founded in
+        1272.\nThe building was burnt to the ground during the air raids on Freiburg in 1944. As
+        part of the reconstruction from 1952 to 1958 trhee wings were added. It was thoroughly
+        renovated in 2000/2001 thanks to donations by the township and economy.\n\nThe Court House
+        \ntThe large and small court room have been in this house since 1328, which is now situated
+        in the courtyard of the old town hall. Since 1480 the municipal court also meet here. In
+        1497/98 the Reichstag, appointed by emperor Maximilan I., convened here. Since 1546 there
+        have been many changes to this building. In 1863 they even added a third floor.\nDuring the
+        air raids in November 1944 the court house was practically destroyed, leaving little more
+        than its foundation walls. Only the stone-arched and iron doors shielded the archive wing
+        and its complete equipment from 1553 leaving it mostly intact. The reconstructed building,
+        partially financed by donations, can be used for receptions and sessons since 1979.\"</string>
+    <string name="cityhall_lat" translatable="false">47.996102</string>
+    <string name="cityhall_long" translatable="false">7.849038</string>
+
+    <string name="baslerhof_name">Basler Hof</string>
+    <string name="baslerhof_description">Commemorative plaque in the Basler Hof referring to Gestapo
+        activities\n \n Inscription:\n \"In Memory\n The Basler Hof was the seat of the Secret State
+        Police (Gestapo).\n Here people were summoned, interrogated, humiliated and tortured.\n We
+        remember the victims of the national socialist terror regime and those citizens, who suffered
+        in this house.\"</string>
+    <string name="baslerhof_lat" translatable="false">47.996481</string>
+    <string name="baslerhof_long" translatable="false">7.851881</string>
+
+
 
 </resources>
