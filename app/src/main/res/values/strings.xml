@@ -5,6 +5,14 @@ https://de.wikipedia.org/wiki/Geschichte_der_Stadt_Freiburg_im_Breisgau
 https://www.geocaching.com/geocache/GC2D7V6_freiburger-geschichten-blutiges-ostern?guid=5ac1433e-f9af-4cdc-97f3-7d602c215061
 https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
 https://commons.wikimedia.org/wiki/Category:Plaques_in_Freiburg_im_Breisgau
+https://en.wikipedia.org/wiki/Colmar
+https://en.wikipedia.org/wiki/Strasbourg
+https://en.wikipedia.org/wiki/Europa-Park
+https://commons.wikimedia.org/wiki/File:Staufen_-_Burgruine_Staufen.jpg
+https://commons.wikimedia.org/wiki/Category:Schauinsland_(Schwarzwald)
+https://commons.wikimedia.org/wiki/Category:Titisee
+https://commons.wikimedia.org/wiki/Category:Schluchsee
+https://en.wikipedia.org/wiki/Basel
 -->
 <resources>
     <!-- App name [CHAR-LIMIT=20} -->
@@ -19,9 +27,6 @@ https://commons.wikimedia.org/wiki/Category:Plaques_in_Freiburg_im_Breisgau
     <string name="jew_fragment">Jewish History</string>
     <string name="plaque_fragment">Plaques Translations</string>
     <string name="excursion_fragment">Excursions</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <!-- History of Freiburg -->
     <string name="ludwigshohe_name">Ludwigshöhe</string>
@@ -354,6 +359,215 @@ https://commons.wikimedia.org/wiki/Category:Plaques_in_Freiburg_im_Breisgau
     <string name="baslerhof_lat" translatable="false">47.996481</string>
     <string name="baslerhof_long" translatable="false">7.851881</string>
 
+    <string name="threetrees_name">Three Trees for the Germany Unity</string>
+    <string name="threetrees_description">Plaque in DietenbackPark, Freiburg:\n\"A growing memorial
+        for the German Unity.\nThis green living memorial represents 25 years reunion. Germany is
+        growing together, just like these trees.\nThe <b>pine tree</b> symbolises the East.\nThe
+        <b>beech tree</b> symbolises the West.\nThe <b>oak tree </b> symbolises the unification of
+        Germany.\nAn initiate by Werner Erhard\nUnder the patronage of the Federal Chancellor Dr.
+        Angela Merkel\nSupported by the protective assosciation German Forest</string>
+    <string name="threetrees_lat" translatable="false">48.000212</string>
+    <string name="threetrees_long" translatable="false">7.800328</string>
+
+    <string name="martin_name">Eugen Martin Memorial</string>
+    <string name="martin_dscription">Plaque in Seepark Freiburg\n\"Eugen Martin installation\nEugen
+        Martin (1925–2010), honorary citizen of Freiburg, gave the rose garten in Seepark new life.
+        \nThe generous donation by the rose enthusiast Eugen Martin enabled the planting of over 150
+        rose bushes in the rose garden created for the hauticultural show in 1986.\nThe rose garden
+        was dedicated to its sponsor on 4th June 2011.\"</string>
+    <string name="martin_lat" translatable="false">48.006872</string>
+    <string name="martin_long" translatable="false">7.824419</string>
+
+    <string name="fehrenbach_name">Memorial plaque for Constantin Fehrenbach</string>
+    <string name="fehrenbach_description">at Schwarzwaldstraße 1 in Freiburg\n\n\"this house was
+        built by and residence of\nConstantin Fehrenbach 1852–1926\nReich Chancellor of the Weimar
+        Republic 1920–1921\"</string>
+    <string name="fehrenbach_lat" translatable="false">47.990624</string>
+    <string name="fehrenbach_long" translatable="false">7.854865</string>
+
+    <string name="fehsenfeld_name">Fehsenfeld\'s Edition</string>
+    <string name="fehsenfeld_description">Wallstraße 10, Freiburg: plaque: the edition of Friedrich
+        Ernst Fehsenfeld (1853–1933) was seated here from 1890–1895, which published the ‘Freiburg
+        Edition’ of the works by Karl May.</string>
+    <string name="fehsenfeld_lat" translatable="false">47.992006</string>
+    <string name="fehsenfeld_long" translatable="false">7.851907</string>
+
+    <string name="hoffmann_name">Memorial Plaque for Dr. Hoffmann and his Wife</string>
+    <string name="hoffmann_description">"Here lies the best and most faithful of all mothers Johanne
+        Frederick Hoffmann née Bleymüller.\n* 19th August 1780\n† 24th March 1860\n\nHere lies an
+        old man, who always followed his own research and dreams building on justice instead blindly
+        trusting human law. Those who knew him bear witness to this. May the almighty judge offer us
+        mercy and clarity.\nChristian august Hoffmann, dr. med.\n* 27th August, 1790. † 6th December
+        1868."</string>
+    <string name="hoffmann_lat" translatable="false">47.992637</string>
+    <string name="hoffmann_long" translatable="false">7.86182</string>
+
+    <string name="schlossberg2_name">Schlossberg: A Hint of History</string>
+    <string name="schlossberg2_description">A Hint of History\nFreiburg and the Schlossberg were
+        always of particular interest due to their situation. The Schlossberg bears its name with
+        reason, as the Zähringer already erected their castle called “Burghaldenschloss” here in the
+        11th century.\nThe securities around the  Burghaldenschlosswere tightened during the 30-year
+        war. The canon square stems from this era. Freiburg was at the center of the conflict between
+        Austria and France after 1648. The city was conquered in 1677 and incorporated together with
+        this castle in a mighty fortress, designed by the architect Vauban by order of the French
+        king Ludwig XIV. The fortification and castle were destroyed in 1744. The points of the
+        wooden bars on the play ground commemorate the lances and spears and with them the war
+        times, when soldiers used to stand guard on the fortress walls.</string>
+    <string name="schlossberg2_lat" translatable="false">47.993273</string>
+    <string name="schlossberg2_long" translatable="false">7.856948</string>
+
+    <string name="schlossberg3_name">Schlossberg: Historic Walk Display 3</string>
+    <string name="schlossberg3_description">Schlossberg of Freiburg Fortress\nHistoric walk\n Display
+        number You are here o\n<b>The upper castle\n(Fort Saint Pierre)</b>\n<i>The strung out upper
+            castle was the main part of the fortification and was built by engineers starting in 1679
+            following plans by Sébastien de Vauban. It creates a constructional unit with the
+            storage (Fort Carré oder Fort de l’Etoile), which enabled secure access from the lower
+            castle. The actual upper castle incorporates storage and barracks.
+        </i>\n\n<small>Isometrics of the upper castle “Fort de St. Pierre”. The main archway was
+            found here  0: Austrian war archives Vienna. </small>\n\n<i>The Peterkirche (church)
+            stood in the center of the courtyard. On the North the upper castle was shielded by a
+            hornworm, to the North West by a bigger construction.\nThe path coming from the present
+            Burghaldenring  secured the upstream route (Redoute du Chemie), which can still be
+            traced easily in the terrain today.</i>\n\n<small>Ground plan of the upper castle with
+            Salzbüchsle 0 and the upstream buildings “Plan et situation du Salspuchsle” found in:
+            Austria. war archive Vienna. </small>\n\n<i>The castle access is gained via a
+            architecturally complex created main gateway (porte Prinzipale)</i>\n\n<small>Ground
+            plan and aspect of the main gateway of the upper castle “Plan et Elevation dune porte
+            du Fort St. Pierre” l’Inspection du Geier Vincennes</small>\n\n<i> with upstream,
+            triangular place of arms (place d’armes), which has also left its mark in the terrain
+            (located display plaque). A deconstructible bridge went from the place of arms over the
+            trench to the gateway, which lead through the inner wall. A covered path went along the
+            outside of the trench (Chemie couvert), which was lowered towards the sloped exterior
+            (glacis) and was secured by stockades. The process of the stockades can be traced
+            following the concretee bollards.</i>\n\nWe offer our gratitude to Sparkasse
+        Freiburg-Northern Breisgau for supporting the Freiburg Schlosserg e.V. board of trustees. We
+        also offer our gratitude to Bernhard Sänger GmbH, construction company and company Dr.
+        Lauck, surface technology for the manufacturing of these information boards.</string>
+    <string name="schlossberg3_lat" translatable="false">47.996476</string>
+    <string name="schlossberg3_long" translatable="false">7.865878</string>
+
+    <string name="schlossberg4_name">Schlossberg: Historic Walk Display 4</string>
+    <string name="schlossberg4_description">Fortress: Schlossberg of Freiburg\n<b>The Schlossberg as
+        part of city history</b>\nFrom time immemorial the Dream valley of the Freiburg area created
+        an important access point to the high Black Forest area. Thus the Schlossberg was a
+        strategically important place to command the area from. It was seized in 1091 bei the dukes
+        of Zähringen as their main castle and at its feet they founded the city of Freiburg.
+        Following the 30-year war the by now Habsburgian city and the Schlossberg were sieged by
+        French troops in 1677 and expanded to a modern fortress following the plans by the renown
+        architect Vauban. Freiburg rejoined the Reich in 1697, but was reconquered in 1713 and 1744
+        by the French, who before finally leaving in 1745 completed the fortification. This brought
+        a distressing era of wars to a close, that cost 30,000 soldiers from Freiburg their lives.
+        A new light forest park was created, pervaded by walkways, on the ruins of the Schlossberg
+        fortress by the end of the 19th century. After WW II the history was sinking more and more
+        into oblivion.\nThe Freiburg Schlossberg board of trustees, founded in 1997, set itself the
+        target, to make the prominent meaning of the Schlossberg for Freiburg visible again. From
+        the Schlossberg tower you can enjoy a wonderful view of the city and its history, which was
+        erected by the board of trustees in 2002. On you way there you will encounter further
+        information boards.\n\nThe sandstone plaque adjacent to this board was erected on the canon
+        square at the start of the 19th century. The single sections of the Schlossberg fortress
+        listed on the plaque are in part misleading. They are based on confusions and do not
+        correspond with the terminology used by Vauban in his build of the construction. These can
+        be found on the indications offered by the aluminium plaques mounted on the old
+        construction.</string>
+    <string name="schlossberg4_lat" translatable="false">47.993507</string>
+    <string name="schlossberg4_long" translatable="false">7.857405</string>
+
+    <string name="schlossberg10_name">Schlossberg: Historic Walk Display 10</string>
+    <string name="schlossberg10_description">Schlossberg of Freiburg Fortress\nHistoric walk
+        \nDisplay number 0 You are here o\n<b>Communication between castles via the
+            <i>Salzbüchsle</i></b>\nThe castle fortification based on the plans of the castle
+        building commissioner Vauban comprised of the upper castle (Fort St. Pierre und Fort Carré)
+        on the highest elevation, the lower castle (Ancien Château) and Salzbüchsle (Fort de
+        L’Aigle) situated between the two. The upper castle contained the main warehouse of the
+        overall structure.\n\n<small>Plan view of the fortification with its communication.
+            Extract from “Les forts de la Montagne de Fribourg”, ca. 1685.\nBibliothque de
+            l’inspection du Genie Vincennnes [sic!].”</small>\n\nBecause of this they needed to
+        install an efficient transport link between the three parts of the fortification. This link
+        (la Communication) allowing two-way traffic was installed on the Schlossberg ridge around
+        1680. A small reroute was attached to the link south of the Salzbüchsle. \n\n<small>Traverse
+            section „Profil d la grande Communication dans l’Etat ou elle est présentement“. Circa
+            1715, city archive of Freiburg.</small>\n\nTo enable communication during a siege, the
+        Link was integrated into the castle and furnished by stockades on both sides. The wall
+        trenches of this stockade paths could be excavated for the most part in good condition. In
+        contrast the lower link was mostly destroyed in 1745. Comte de la Venerie called on the
+        imperial manager of the fortification to reinforce the defenders of the construction after
+        the siege in by the French army in 1713. The location of this display x marks the remnants
+        of the second ring wall around the Salzbüchsle from 1728. \n\n<small>Second surrounding wall
+            of the Salzbüchsle. „Plan de … Salzbüchslein comme als doit être renforcé” Mâchoire
+            Auguste Comte de la Venerie 1723. Austrian war archive Vienna.
+        </small>\n\n<small>Traverse section. „Profil du Saltzbüschlein et de des nouveaux ouvrages“,
+            Melchior Auguste Comte de la Venerie 1723/28. Austrian war archive Vienna.
+        </small>\n\nSpecial thanks to Sparkasse Freiburg Northern Breisgau for their support.\n</string>
+    <string name="schlossberg10_lat" translatable="false">47.995364</string>
+    <string name="schlossberg10_long" translatable="false">7.863346</string>
+
+
+
+    <!-- Excursions -->
+    <string name="strasbourg_name">Strasbourg</string>
+    <string name="strasbourg_description">Strasbourg is the capital of Elsass, France.</string>
+    <string name="strasbourg_lat" translatable="false">48.579444</string>
+    <string name="strasbourg_long" translatable="false">7.738389</string>
+
+    <string name="colmar_name">Colmar</string>
+    <string name="colmar_description">Colmar is the third-largest commune of the Alsace region in
+        north-eastern France.</string>
+    <string name="colmar_lat" translatable="false">48.0766</string>
+    <string name="colmar_long" translatable="false">7.358214</string>
+
+    <string name="europapark_name">Europa Park</string>
+    <string name="europapark_description">Europa-Park in Rust (Germany) is Germany\'s biggest theme
+        park.</string>
+    <string name="europapark_lat" translatable="false">48.267111</string>
+    <string name="europapark_long" translatable="false">7.719194</string>
+
+    <string name="staufen_name">Staufen</string>
+    <string name="staufen_description">Staufen lies in Breisgau Hochschwarzwald (Black Forest),
+        Baden_Württemberg. The city houses ca. 7800 citizens and is first mentioned in documents
+        from the 7th century. With the castle ruin as its backdrop the historic city center comes to
+        its full bloom. The Faust-legend supports its atmosphere, placing the meeting between Faust
+        and the devil in a hotel right in the center of the city.</string>
+    <string name="staufen_lat" translatable="false">47.886379</string>
+    <string name="staufen_long" translatable="false">7.731944</string>
+
+    <string name="schauinsland_name">Schauinsland</string>
+    <string name="schauinsland_description">As the name hints at, the Schauinsland (literally: look
+        into the land) offers a beautiful vista over the Black Forest and Breisgaul</string>
+    <string name="schauinsland_lat" translatable="false">47.902243</string>3
+    <string name="schauinsland_long" translatable="false">7.904642</string>
+
+    <string name="titisee_name">Titisee</string>
+    <string name="titisee_description">Titisee is a small lake and town in the Black Forest
+        (Schwarzwald) in Baden-Württemberg.</string>
+    <string name="titisee_lat" translatable="false">47.899143</string>
+    <string name="titisee_long" translatable="false">8.153425</string>
+
+    <string name="schluchsee_name">Schluchsee</string>
+    <string name="schluchsee_description">The Lake of Schluch is a reservoir near St. Balsien in
+        Breisgau-Hoschschwarzwald (Black Forest), Baden-Württemberg. It lies to the South East of
+        the Lake of Titi and is the largest lake of the Balck Forest.</string>
+    <string name="schluchsee_lat" translatable="false">47.842211</string>
+    <string name="schluchsee_long" translatable="false">8.112609</string>
+
+    <string name="basel_name">Basel</string>
+    <string name="basel_description">"Basel  is a city in northwestern Switzerland on the river
+        Rhine. Basel is Switzerland's third-most-populous city (after Zürich and Geneva) with about
+        175,000 inhabitants.\n\nLocated where the Swiss, French and German borders meet, Basel also
+        has suburbs in France and Germany. The cities agglomeration has ca. 830,000 inhabitants.
+        \n\nThe city encorporates GrossBasel on the left (southwest) side of the Rhine and
+        Kleinbasel (incorporating the old fishing village Kleinhüningen) on the right bank of the
+        Rhine. The center of the old town lies in Grossbasel around the market square – where the
+        town hall (built in 1504) stands – and the munster hill towering over the Pfalz-terrasse.
+        The \"Mittlere Brücke\" connects the old city on both sides of the Rhine. The city center is
+        freed from car traffic with public transport offered by tram. \n\nThe city is known for its
+        various internationally renowned museums, ranging from the Kunstmuseum, the first collection
+        of art accessible to the public in Europe, to the Fondation Beyeler (located in Riehen), and
+        its centuries long commitment to Humanism, offering a safe haven among others to Erasmus of
+        Rotterdam, the Holbein family, and more recently also to Hermann Hesse and Karl Jaspers.
+        Basel has been the seat of a Prince-Bishopric since the 11th century, and joined the Swiss
+        Confederacy in 1501. "</string>
+    <string name="basel_lat" translatable="false">47.559601</string>
+    <string name="basel_long" translatable="false">7.588576</string>
 
 
 </resources>
