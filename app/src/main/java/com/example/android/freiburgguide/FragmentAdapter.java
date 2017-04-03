@@ -37,7 +37,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return new JewFragment();
         } else if (position == 2) {
-            return new PlaqueFragment();
+            return new SchlossbergFragment();
         } else {
             return new ExcursionFragment();
         }
@@ -56,7 +56,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return mContext.getString(R.string.jew_fragment);
         } else if (position == 2) {
-            return mContext.getString(R.string.plaque_fragment);
+            return mContext.getString(R.string.schlossberg_fragment);
         } else {
             return mContext.getString(R.string.excursion_fragment);
         }

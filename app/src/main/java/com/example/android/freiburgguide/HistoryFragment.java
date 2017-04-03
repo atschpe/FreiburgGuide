@@ -26,9 +26,6 @@ public class HistoryFragment extends Fragment {
         //Create list of places containing: placeThumbnail, placeImage, placeName, placeDescription,
         // placeLat & placeLong
         ArrayList<Place> places = new ArrayList<>();
-        places.add(new Place(R.drawable.ludwigshohe, R.drawable.ludwigshohe_full,
-                R.string.ludwigshohe_name, R.string.lugwigshohe_description,
-                getString(R.string.ludwigshohe_lat), getString(R.string.ludwigshohe_long)));
         places.add(new Place(R.drawable.citywall, R.drawable.citywall_full, R.string.citywall_name,
                 R.string.citywall_description, getString(R.string.cemetry_lat),
                 getString(R.string.cemetry_long)));
@@ -68,6 +65,30 @@ public class HistoryFragment extends Fragment {
         places.add(new Place(R.drawable.university, R.drawable.university_full,
                 R.string.university_name, R.string.university_description,
                 getString(R.string.university_lat), getString(R.string.university_long)));
+        places.add(new Place(R.drawable.lenel, R.drawable.lenel_full, R.string.lenel_name,
+                R.string.lenel_description, getString(R.string.lenel_lat),
+                getString(R.string.lenel_long)));
+        places.add(new Place(R.drawable.predigerkloster, R.drawable.predigerkloster_full,
+                R.string.predigerkloster_name, R.string.predigerkloster_description,
+                getString(R.string.predigerkloster_lat), getString(R.string.predigerkloster_long)));
+        places.add(new Place(R.drawable.cityhall, R.drawable.cityhall_full, R.string.cityhall_name,
+                R.string.cityhall_description, getString(R.string.cityhall_lat),
+                getString(R.string.cityhall_long)));
+        places.add(new Place(R.drawable.baslerhof, R.drawable.baslerhof_full,
+                R.string.baslerhof_name, R.string.baslerhof_description,
+                getString(R.string.baslerhof_lat), getString(R.string.baslerhof_long)));
+        places.add(new Place(R.drawable.threetrees, R.drawable.threetrees_full,
+                R.string.threetrees_name, R.string.threetrees_description,
+                getString(R.string.threetrees_lat), getString(R.string.threetrees_long)));
+        places.add(new Place(R.drawable.martin, R.drawable.martin_full, R.string.martin_name,
+                R.string.martin_dscription, getString(R.string.martinplaque_lat),
+                getString(R.string.martinplaque_long)));
+        places.add(new Place(R.drawable.fehrenbach, R.drawable.fehrenbach_full,
+                R.string.fehrenbach_name, R.string.fehrenbach_description,
+                getString(R.string.fehrenbach_lat), getString(R.string.fehrenbach_long)));
+        places.add(new Place(R.drawable.fehsenfeld, R.drawable.fehsenfeld_full,
+                R.string.fehsenfeld_name, R.string.fehsenfeld_description,
+                getString(R.string.fehsenfeld_lat), getString(R.string.fehsenfeld_long)));
 
         //PlaceAdapter that uses the list of places as data source.
         PlaceAdapter pa = new PlaceAdapter(getContext(), places);

@@ -12,9 +12,9 @@ import java.util.ArrayList;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class PlaqueFragment extends Fragment {
+public class SchlossbergFragment extends Fragment {
 
-    public PlaqueFragment() {
+    public SchlossbergFragment() {
         // Required empty public constructor
     }
 
@@ -26,33 +26,15 @@ public class PlaqueFragment extends Fragment {
         //Create list of places containing: place Thumbnail, placeImage, placeName,
         // placeDescription, placeLat & placeLong
         ArrayList<Place> places = new ArrayList<>();
-        places.add(new Place(R.drawable.lenel, R.drawable.lenel_full, R.string.lenel_name,
-                R.string.lenel_description, getString(R.string.lenel_lat),
-                getString(R.string.lenel_long)));
-        places.add(new Place(R.drawable.predigerkloster, R.drawable.predigerkloster_full,
-                R.string.predigerkloster_name, R.string.predigerkloster_description,
-                getString(R.string.predigerkloster_lat), getString(R.string.predigerkloster_long)));
-        places.add(new Place(R.drawable.cityhall, R.drawable.cityhall_full, R.string.cityhall_name,
-                R.string.cityhall_description, getString(R.string.cityhall_lat),
-                getString(R.string.cityhall_long)));
-        places.add(new Place(R.drawable.baslerhof, R.drawable.baslerhof_full,
-                R.string.baslerhof_name, R.string.baslerhof_description,
-                getString(R.string.baslerhof_lat), getString(R.string.baslerhof_long)));
-        places.add(new Place(R.drawable.threetrees, R.drawable.threetrees_full,
-                R.string.threetrees_name, R.string.threetrees_description,
-                getString(R.string.threetrees_lat), getString(R.string.threetrees_long)));
-        places.add(new Place(R.drawable.martin, R.drawable.martin_full, R.string.martin_name,
-                R.string.martin_dscription, getString(R.string.martinplaque_lat),
-                getString(R.string.martinplaque_long)));
-        places.add(new Place(R.drawable.fehrenbach, R.drawable.fehrenbach_full,
-                R.string.fehrenbach_name, R.string.fehrenbach_description,
-                getString(R.string.fehrenbach_lat), getString(R.string.fehrenbach_long)));
-        places.add(new Place(R.drawable.fehsenfeld, R.drawable.fehsenfeld_full,
-                R.string.fehsenfeld_name, R.string.fehsenfeld_description,
-                getString(R.string.fehsenfeld_lat), getString(R.string.fehsenfeld_long)));
+        places.add(new Place(R.drawable.ludwigshohe, R.drawable.ludwigshohe_full,
+                R.string.ludwigshohe_name, R.string.lugwigshohe_description,
+                getString(R.string.ludwigshohe_lat), getString(R.string.ludwigshohe_long)));
         places.add(new Place(R.drawable.hoffmann, R.drawable.hoffmann_full, R.string.hoffmann_name,
                 R.string.hoffmann_description, getString(R.string.hoffmann_lat),
                 getString(R.string.hoffmann_long)));
+        places.add(new Place(R.drawable.schlossberg1, R.drawable.schlossberg1_full,
+                R.string.schlossberg1_name, R.string.schlossberg1_description,
+                getString(R.string.schlossberg1_lat), getString(R.string.schlossberg1_long)));
         places.add(new Place(R.drawable.schlossberg2, R.drawable.schlossberg2_full,
                 R.string.schlossberg2_name, R.string.schlossberg2_description,
                 getString(R.string.schlossberg2_lat), getString(R.string.schlossberg2_long)));
@@ -62,6 +44,21 @@ public class PlaqueFragment extends Fragment {
         places.add(new Place(R.drawable.schlossberg4, R.drawable.schlossberg4_full,
                 R.string.schlossberg4_name, R.string.schlossberg4_description,
                 getString(R.string.schlossberg4_lat), getString(R.string.schlossberg4_long)));
+        places.add(new Place(R.drawable.schlossberg5, R.drawable.schlossberg5_full,
+                R.string.schlossberg5_name, R.string.schlossberg5_description,
+                getString(R.string.schlossberg5_lat), getString(R.string.schlossberg5_long)));
+        places.add(new Place(R.drawable.schlossberg6, R.drawable.schlossberg6_full,
+                R.string.schlossberg6_name, R.string.schlossberg6_description,
+                getString(R.string.schlossberg6_lat), getString(R.string.schlossberg6_long)));
+        places.add(new Place(R.drawable.schlossberg7, R.drawable.schlossberg7_full,
+                R.string.schlossberg7_name, R.string.schlossberg7_description,
+                getString(R.string.schlossberg7_lat), getString(R.string.schlossberg7_long)));
+        places.add(new Place(R.drawable.schlossberg8, R.drawable.schlossberg8_full,
+                R.string.schlossberg8_name, R.string.schlossberg8_description,
+                getString(R.string.schlossberg8_lat), getString(R.string.schlossberg8_long)));
+        places.add(new Place(R.drawable.schlossberg9, R.drawable.schlossberg9_full,
+                R.string.schlossberg9_name, R.string.schlossberg9_description,
+                getString(R.string.schlossberg9_lat), getString(R.string.schlossberg9_long)));
         places.add(new Place(R.drawable.schlossberg10, R.drawable.schlossberg10_full,
                 R.string.schlossberg10_name, R.string.schlossberg10_description,
                 getString(R.string.schlossberg10_lat), getString(R.string.schlossberg10_long)));
