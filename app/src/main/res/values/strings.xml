@@ -23,682 +23,298 @@ https://en.wikipedia.org/wiki/Basel
     <string name="google_maps_key">AIzaSyDFJ0OXkYbA9fxdkrRA98S-476i42rekuE</string>
 
     <!-- Fragment titles [CHAR-LIMIT=20} -->
-    <string name="history_fragment">History</string>
+    <string name="history_fragment">City History</string>
     <string name="jew_fragment">Jewish History</string>
     <string name="schlossberg_fragment">Schlossberg</string>
-    <string name="excursion_fragment">Excursions</string>
+    <string name="wars_fragment">War History</string>
 
-    <!-- History of Freiburg -->
+    <!-- City History-->
     <string name="citywall_name">Old City Wall</string>
-    <string name="citywall_description">Pavement inscription, that indicates the course ofthe city
-        wall south west of the Augustiner museum.\n\ninscription:\n\"Old city wall until ca.
-        1825\"</string>
+    <string name="citywall_description">Pavement inscription, that indicates the course ofthe city wall south west of the Augustiner museum.\n\ninscription:\n\"Old city wall until ca. 1825\"</string>
     <string name="citywall_lat" translatable="false">47.9937</string>
     <string name="citywall_long" translatable="false">7.852275</string>
 
     <string name="kaufhaus_name">Historic Merchants Hall</string>
-    <string name="kaufhaus_description">The Historic Merchants Hall in Freiburg dates to 1520-21.
-        The front facade is decorated with statues and coats of arms that were sculpted between
-        1520 and 1531 by Sixt von Staufen. The sculpted figures under baldachins show Emperor
-        Maximilian I, King Philipp the Beautiful of Castile, Emperor Charles V and Emperor Ferdinand
-        I - all Hapsburgs.</string>
+    <string name="kaufhaus_description">The Historic Merchants Hall in Freiburg dates to 1520–21. The front facade is decorated with statues and coats of arms that were sculpted between 1520 and 1531 by Sixt von Staufen. The sculpted figures under baldachins show Emperor Maximilian I, King Philipp the Beautiful of Castile, Emperor Charles V and Emperor Ferdinand I - all Hapsburgs.</string>
     <string name="kaufhaus_lat" translatable="false">47.994953</string>
     <string name="kaufhaus_long" translatable="false">7.852890</string>
 
     <string name="gerichtslaube_name">Gerichtslaube</string>
-    <string name="gerichtslaube_description">The Gerichtslaube where in 1498 the Reichstag was held
-        \n\nA small gem from Freiburg’s past is located in the rear courtyard of the Old Town Hall,
-        accessible from the Turmstrasse. It is the Gerichtslaube (court house), which was used for
-        municipal matters at the beginning of Freiburg’s development. Between 1280 and 1300 the
-        free-standing gabled house was built and originally used as a courtroom and a place where
-        leading Freiburg citizens and aristocrats gathered. There was even a small jail in the
-        cellar vaults.</string>
+    <string name="gerichtslaube_description">The Gerichtslaube where in 1498 the Reichstag was held \n\nA small gem from Freiburg’s past is located in the rear courtyard of the Old Town Hall, accessible from the Turmstrasse. It is the Gerichtslaube (court house), which was used for municipal matters at the beginning of Freiburg’s development. Between 1280 and 1300 the free-standing gabled house was built and originally used as a courtroom and a place where leading Freiburg citizens and aristocrats gathered. There was even a small jail in the cellar vaults.</string>
     <string name="gerichtslaube_lat" translatable="false">47.996076</string>
     <string name="gerichtslaube_long" translatable="false">7.849318</string>
 
     <string name="martinplaque_name">Plaques on Martins Gate</string>
-    <string name="martinplaque_description">Plaques on Martin\'s Gate about its origins and the
-        burning of witches\n\nInscription (left):\nMartin\'s Gate\nInitially Norsinger Gate.
-        Oldest preserved fortified tower and gate from the medieval castle (beginning of 13th
-        century). Restructured by C. Schäfer from 1901–03. Fully renovated in 1998.\n\n(right):
-        \nBurning of witches\nMargaretha Mößmerin \nCatharina Stadellmentin\nAnna Wolffartin
-        \nbeheaded and burned on 24th March 1599.\n\nThe City of Freiburg in Breisgau honour their
-        memory at this location as well as all women, who fell victim to the witch persecutions.
-        The suffering of these and all innocently tortured people is a living reprimand for
-        tolerance and humanity.\n</string>
+    <string name="martinplaque_description">Plaques on Martin\'s Gate about its origins and the burning of witches\n\nInscription (left):\nMartin\'s Gate\nInitially Norsinger Gate. Oldest preserved fortified tower and gate from the medieval castle (beginning of 13th century). Restructured by C. Schäfer from 1901–03. Fully renovated in 1998.\n\n(right):\nBurning of witches\nMargaretha Mößmerin \nCatharina Stadellmentin\nAnna Wolffartin\nbeheaded and burned on 24th March 1599.\n\nThe City of Freiburg in Breisgau honour their memory at this location as well as all women, who fell victim to the witch persecutions. The suffering of these and all innocently tortured people is a living reprimand for tolerance and humanity.\n</string>
     <string name="martinplaque_lat" translatable="false">47.993725</string>
     <string name="martinplaque_long" translatable="false">7.848975</string>
 
+    <string name="schwabentor_name">Memorial at the Freiburg Schwabentor</string>
+    <string name="schwabentor_description">This gateway, the Schwabentor, was errected by the ancestors to safe guard the city over 700 years ago. It was heavily ravaged during difficult war times and lost its height.\nIn 1901 during Dr. Otto Winterer’s term in office as lord major and Rudolf Thoma held the position of town master builder it was expanded to its current form by the architects Geis and Bauer based on plans by Carl Schaefer from Karlsruhe.\n\nFollowing the expansion in 1901 further destruction required extensive reconstruction in 1954.\n</string>
+    <string name="schwabentor_lat" translatable="false">47.992866</string>
+    <string name="schwabentor_long" translatable="false">7.853969</string>
+
     <string name="breisachertor_name">Breisach Town Gate</string>
-    <string name="breisachertor_description">One of the few remaining remnants of the fortification
-        of Freiburg by Vauban. The former entry to the Breisach gate is now the entrance for a
-        restaurant.\n</string>
+    <string name="breisachertor_description">One of the few remaining remnants of the fortification of Freiburg by Vauban. The former entry to the Breisach gate is now the entrance for a restaurant.</string>
     <string name="breisachertor_lat" translatable="false">47.992242</string>
     <string name="breisachertor_long" translatable="false">7.847719</string>
 
-    <string name="loretto_name">Loretto Chapel</string>
-    <string name="loretto_description">"Cannon ball, that would have hit Louis XV on his observation
-        post during his siege of Freiburg in 1744, stuck in the wall of Loretto's Chapel.\n"</string>
-    <string name="loretto_lat" translatable="false">47.981375</string>
-    <string name="loretto_long" translatable="false">7.838544</string>
+    <string name="rectory_name">Inscription in the cloister of St. Martin</string>
+    <string name="rectory_description">“Rectory St. Martin \nFranciscan monastery until 1874. Berthold Schwarz and Thomas Murner (†1537) were occupants. Engelbert Küpfel died in the rectory in 1911. The folk writer Heinrich Hansjakob lived here as town pastor 1884–1913.”</string>
+    <string name="rectory_lat" translatable="false">47.996046</string>
+    <string name="rectory_long" translatable="false">7.84986</string>
 
-    <string name="martinsgate_name">Martin\'s Gate</string>
-    <string name="martinsgate_description">The plate above the archway commemorates until today the
-        battle between the Freiburg militia, that was founded in 1793, and the revultionary troops
-        from France. \n\nThe inscription:\n\"Monument to the volunteers of Freiburg under the major
-        and city councilor Caluri and all the comrades-in-arms of Austria Breisgau, who honored
-        themselves by their loyalty and bravery on 7th July 1796, for emperor and fatherland.
-        Dedicated by their general baron von Duminique.\"</string>
-    <string name="martinsgate_lat" translatable="false">47.993775</string>
-    <string name="martinsgate_long" translatable="false">7.849031</string>
-
-    <string name="munster_name">Tambur Graffiti at the Munster</string>
-    <string name="munster_description">Graffiti by a German speaking drummer (tambur not tambour) of
-        the Napoleanic Army 1810 on the outer wall of the munster choir.\n\nInscription:
-        \n\"Tambur Hagenbuch 1810\"</string>
-    <string name="munster_lat" translatable="false">47.995489</string>
-    <string name="munster_long" translatable="false">7.852983</string>
-
-    <string name="barricade_name">Square of the Last Barricade</string>
-    <string name="barricade_description">Square of the last barricade during the 1848 Revolution
-        near the Schwabentor.</string>
-    <string name="barricade_lat" translatable="false">47.9929</string>
-    <string name="barricade_long" translatable="false">7.854033</string>
-
-    <string name="sternwald_name">Sternwald Memorial</string>
-    <string name="sternwald_description">Memorial stone near Günterstal commemorating the freedom
-        fighters who were killed on April 23, 1884 by government forces\n\nInscription:\n\"In
-        memory of the fighters for freedom and democracy who fell in the fight against government
-        forces on Easter Sunday, 1848.\"</string>
-    <string name="sternwald_lat" translatable="false">47.970931</string>
-    <string name="sternwald_long" translatable="false">7.852028</string>
-
-    <string name="dortus_name">Mausoleum for Maximilian Dortus</string>
-    <string name="dortus_description">The Mausoleum of Maximilian Dortus, German revolutionary of
-        1848-49 shot by government troops at the very place in the Wiehre cemetry.</string>
-    <string name="dortus_lat" translatable="false">47.985811</string>
-    <string name="dortus_long" translatable="false">7.857147</string>
-
-    <string name="soldiermem_name">Memorial for fallen Soldier (1848)</string>
-    <string name="soldiermem_description">Memorial stone erected in the od cemetry for the soldiers
-        who died during the siege of Freiburg in 1848. The grand duke ordered the stone, which was
-        donated by the comrades of the fallen, to be turned so that the inscription could not be
-        read from the road.\n\nInscription:\n\"In memory of those fallen at the assault on Freiburg
-        on 24th April 1848, by their comrades-in-arms.\"</string>
-    <string name="soldiermem_lat" translatable="false">48.000625</string>
-    <string name="soldiermem_long" translatable="false">7.857602</string>
-
-    <string name="bombattack_name">Marks of the WW I Bomb Attack</string>
-    <string name="bombattack_description">Marks found on College Building I of the Freiubrg
-        university, caused by the British bomb attack from 14th April 1917.</string>
-    <string name="bombattack_lat" translatable="false">47.993697</string>
-    <string name="bombattack_long" translatable="false">7.846094</string>
-
-    <string name="university_name">Where The Imperial Eagle once soared.</string>
-    <string name="university_description">Place at the wall of the university building where the
-        eagle of the Third Reich once hung.</string>
-    <string name="university_lat" translatable="false">47.993806</string>
-    <string name="university_long" translatable="false">7.845594</string>
+    <string name="rosenzweig_name">Rosenzweig Plaque</string>
+    <string name="rosenzweig_description">Franz Rosenzweig 1886–1929, Jewish philosopher and pioneer for a new brotherhood between Christians and Jews, lived here as a student.</string>
+    <string name="rosenzweig_lat" translatable="false">47.995249</string>
+    <string name="rosenzweig_long" translatable="false">7.853844</string>
 
     <string name="lenel_name">Plaque for Otto Lenel</string>
-    <string name="lenel_description">Plaque for Otto Lenel in front of his former house in Freiburg
-        im Breisgau, Holbeinstraße 5\n\nInschrift:\n\"Professor of Roman rights Otto Lenel 1849–1935
-        lived in this house from 1909 onwards.\"</string>
+    <string name="lenel_description">Plaque for Otto Lenel in front of his former house in Freiburg im Breisgau, Holbeinstraße 5\n\nInschrift:\n\"Professor of Roman rights Otto Lenel 1849–1935 lived in this house from 1909 onwards.\"</string>
     <string name="lenel_lat" translatable="false">47.982048</string>
     <string name="lenel_long" translatable="false">7.845118</string>
 
     <string name="predigerkloster_name">Convent of Preacher</string>
-    <string name="predigerkloster_description">Information plaque saying:\n\"Here stood the Convent
-        for Preachers from the middle of the 13th century until its abolition in 1794, a glowing
-        place for medieval research and religion. Even Albertus Magnus, one of the leading spirits
-        of the Western World taught ecclesial and secular earls within these walls. 1492 emperor
-        Maximilian was received a friendly reception. In the frigthful night of 27th November, 1944
-        the remains of the convents sank to rubble.\"</string>
+    <string name="predigerkloster_description">Information plaque saying:\n\"Here stood the Convent for Preachers from the middle of the 13th century until its abolition in 1794, a glowing place for medieval research and religion. Even Albertus Magnus, one of the leading spirits of the Western World taught ecclesial and secular earls within these walls. 1492 emperor Maximilian was received a friendly reception. In the frigthful night of 27th November, 1944 the remains of the convents sank to rubble.\"</string>
     <string name="predigerkloster_lat" translatable="false">47.997603</string>
     <string name="predigerkloster_long" translatable="false">7.848494</string>
 
     <string name="cityhall_name">Plaque at Old City Hall</string>
-    <string name="cityhall_description">Plaque offering details about the new and old town hall as
-        well as the court house:\n\n\"New Town Hall\nthe new town hall, located between Rathausgasse
-        and Turmstraße was created in its current form by converting the old town houses
-        \"Zum Phönix\"(the Phoenix) and \"Zum Rechen\" (the Rake). It was the main college building
-        of the university between 1578 and 1774. The baroque furnished auditorium on the first floor
-        and the original entry gate of the university, which is now found to the rear of the
-        courtyard, where builtduring this period and survive to this day.\nThe building was home to
-        various university institutes during the 19th century, e.g. anatomy. After the comprehensive
-        extensions from 1896 to 1901 – a council hall corridor was added above the entry and the
-        little bell tower – the city administration moved into the building. An extenvie renovation
-        was completed in  2000/2001 thanks to donations from the township and economy.\n\nOld Town
-        Hall\nThe Northerly situationed old town hall is linked to the new town hall by a bridge.
-        The Freiburg town clerk worked here as early as the 13th century. The current house was
-        built between 1556 and 1561. It was linked to two other town houses at a later date. All
-        that remains from the initial construction is the crypt of the Klarissa Covenant founded in
-        1272.\nThe building was burnt to the ground during the air raids on Freiburg in 1944. As
-        part of the reconstruction from 1952 to 1958 trhee wings were added. It was thoroughly
-        renovated in 2000/2001 thanks to donations by the township and economy.\n\nThe Court House
-        \ntThe large and small court room have been in this house since 1328, which is now situated
-        in the courtyard of the old town hall. Since 1480 the municipal court also meet here. In
-        1497/98 the Reichstag, appointed by emperor Maximilan I., convened here. Since 1546 there
-        have been many changes to this building. In 1863 they even added a third floor.\nDuring the
-        air raids in November 1944 the court house was practically destroyed, leaving little more
-        than its foundation walls. Only the stone-arched and iron doors shielded the archive wing
-        and its complete equipment from 1553 leaving it mostly intact. The reconstructed building,
-        partially financed by donations, can be used for receptions and sessons since 1979.\"</string>
+    <string name="cityhall_description">Plaque offering details about the new and old town hall as well as the court house:\n\n\"New Town Hall\nthe new town hall, located between Rathausgasse and Turmstraße was created in its current form by converting the old town houses \"Zum Phönix\"(the Phoenix) and \"Zum Rechen\" (the Rake). It was the main college building of the university between 1578 and 1774. The baroque furnished auditorium on the first floor and the original entry gate of the university, which is now found to the rear of the courtyard, where builtduring this period and survive to this day.\nThe building was home to various university institutes during the 19th century, e.g. anatomy. After the comprehensive extensions from 1896 to 1901 – a council hall corridor was added above the entry and the little bell tower – the city administration moved into the building. An extenvie renovation was completed in  2000/2001 thanks to donations from the township and economy.\n\nOld Town Hall\nThe Northerly situationed old town hall is linked to the new town hall by a bridge. The Freiburg town clerk worked here as early as the 13th century. The current house was built between 1556 and 1561. It was linked to two other town houses at a later date. All that remains from the initial construction is the crypt of the Klarissa Covenant founded in 1272.\nThe building was burnt to the ground during the air raids on Freiburg in 1944. As part of the reconstruction from 1952 to 1958 trhee wings were added. It was thoroughly renovated in 2000/2001 thanks to donations by the township and economy.\n\nThe Court House \ntThe large and small court room have been in this house since 1328, which is now situated in the courtyard of the old town hall. Since 1480 the municipal court also meet here. In 1497/98 the Reichstag, appointed by emperor Maximilan I., convened here. Since 1546 there have been many changes to this building. In 1863 they even added a third floor.\nDuring the air raids in November 1944 the court house was practically destroyed, leaving little more than its foundation walls. Only the stone-arched and iron doors shielded the archive wing and its complete equipment from 1553 leaving it mostly intact. The reconstructed building, partially financed by donations, can be used for receptions and sessons since 1979.\"</string>
     <string name="cityhall_lat" translatable="false">47.996102</string>
     <string name="cityhall_long" translatable="false">7.849038</string>
 
-    <string name="baslerhof_name">Basler Hof</string>
-    <string name="baslerhof_description">Commemorative plaque in the Basler Hof referring to Gestapo
-        activities\n \n Inscription:\n \"In Memory\n The Basler Hof was the seat of the Secret State
-        Police (Gestapo).\n Here people were summoned, interrogated, humiliated and tortured.\n We
-        remember the victims of the national socialist terror regime and those citizens, who suffered
-        in this house.\"</string>
-    <string name="baslerhof_lat" translatable="false">47.996481</string>
-    <string name="baslerhof_long" translatable="false">7.851881</string>
-
     <string name="threetrees_name">Three Trees for the Germany Unity</string>
-    <string name="threetrees_description">Plaque in DietenbackPark, Freiburg:\n\"A growing memorial
-        for the German Unity.\nThis green living memorial represents 25 years reunion. Germany is
-        growing together, just like these trees.\nThe <b>pine tree</b> symbolises the East.\nThe
-        <b>beech tree</b> symbolises the West.\nThe <b>oak tree </b> symbolises the unification of
-        Germany.\nAn initiate by Werner Erhard\nUnder the patronage of the Federal Chancellor Dr.
-        Angela Merkel\nSupported by the protective assosciation German Forest</string>
+    <string name="threetrees_description">Plaque in DietenbackPark, Freiburg:\n\"A growing memorial for the German Unity.\nThis green living memorial represents 25 years reunion. Germany is growing together, just like these trees.\nThe <b>pine tree</b> symbolises the East.\nThe <b>beech tree</b> symbolises the West.\nThe <b>oak tree </b> symbolises the unification of Germany.\nAn initiate by Werner Erhard\nUnder the patronage of the Federal Chancellor Dr. Angela Merkel\nSupported by the protective assosciation German Forest</string>
     <string name="threetrees_lat" translatable="false">48.000212</string>
     <string name="threetrees_long" translatable="false">7.800328</string>
 
     <string name="martin_name">Eugen Martin Memorial</string>
-    <string name="martin_dscription">Plaque in Seepark Freiburg\n\"Eugen Martin installation\nEugen
-        Martin (1925–2010), honorary citizen of Freiburg, gave the rose garten in Seepark new life.
-        \nThe generous donation by the rose enthusiast Eugen Martin enabled the planting of over 150
-        rose bushes in the rose garden created for the hauticultural show in 1986.\nThe rose garden
-        was dedicated to its sponsor on 4th June 2011.\"</string>
+    <string name="martin_dscription">Plaque in Seepark Freiburg\n\"Eugen Martin installation\nEugen Martin (1925–2010), honorary citizen of Freiburg, gave the rose garten in Seepark new life.\nThe generous donation by the rose enthusiast Eugen Martin enabled the planting of over 150 rose bushes in the rose garden created for the hauticultural show in 1986.\nThe rose garden was dedicated to its sponsor on 4th June 2011.\"</string>
     <string name="martin_lat" translatable="false">48.006872</string>
     <string name="martin_long" translatable="false">7.824419</string>
 
     <string name="fehrenbach_name">Memorial plaque for Constantin Fehrenbach</string>
-    <string name="fehrenbach_description">at Schwarzwaldstraße 1 in Freiburg\n\n\"this house was
-        built by and residence of\nConstantin Fehrenbach 1852–1926\nReich Chancellor of the Weimar
-        Republic 1920–1921\"</string>
+    <string name="fehrenbach_description">at Schwarzwaldstraße 1 in Freiburg\n\n\"this house was built by and residence of\nConstantin Fehrenbach 1852–1926\nReich Chancellor of the Weimar Republic 1920–1921\"</string>
     <string name="fehrenbach_lat" translatable="false">47.990624</string>
     <string name="fehrenbach_long" translatable="false">7.854865</string>
 
     <string name="fehsenfeld_name">Fehsenfeld\'s Edition</string>
-    <string name="fehsenfeld_description">Wallstraße 10, Freiburg: plaque: the edition of Friedrich
-        Ernst Fehsenfeld (1853–1933) was seated here from 1890–1895, which published the ‘Freiburg
-        Edition’ of the works by Karl May.</string>
+    <string name="fehsenfeld_description">Wallstraße 10, Freiburg: plaque: the edition of Friedrich Ernst Fehsenfeld (1853–1933) was seated here from 1890–1895, which published the ‘Freiburg Edition’ of the works by Karl May.</string>
     <string name="fehsenfeld_lat" translatable="false">47.992006</string>
     <string name="fehsenfeld_long" translatable="false">7.851907</string>
 
     <!-- Jewish history-->
     <string name="gurs_name">Gurs Memorial Sign Post</string>
-    <string name="gurs_description">Memorial remembering the deportation of the Jews to the
-        concentration camp in Gurs (South France) in the form of a sign post.</string>
+    <string name="gurs_description">Memorial remembering the deportation of the Jews to the concentration camp in Gurs (South France) in the form of a sign post.</string>
     <string name="gurs_lat" translatable="false">47.995228</string>
     <string name="gurs_long" translatable="false">7.846164</string>
 
     <string name="buerckel_name">Wagner Bürckel Memorial</string>
-    <string name="buerckel_description">Memorial at the place of the old synagogue in Freiburg for
-        the so called Wagner-Bürckel campaign, where Jews from Baden and Palatinate regions were
-        deported. \n\nThe inscription:\n\"On the 22nd October 1940, in only a few hours 6,504 jewish
-        men, women and children from Baden and Palatinate were brought to central concentration
-        camps and from there deported to camp Gurs in southern france. The oldest was 97 years old.
-        Among them were about 300 jewish fellow citizens from Freiburg.\n\nThose who didn’t die
-        because of hunger and diseases, were deported mainly to the eastern extermination camps
-        Auschwitz and Maidanék from August 1942 on. Over 5,200 of those deported to Gurs died as
-        victims of violence.\n\nToo many have then looked away, too few have resisted.
-        This must not and will not be repeated.</string>
+    <string name="buerckel_description">Memorial at the place of the old synagogue in Freiburg for the so called Wagner-Bürckel campaign, where Jews from Baden and Palatinate regions were deported. \n\nThe inscription:\n\"On the 22nd October 1940, in only a few hours 6,504 jewish men, women and children from Baden and Palatinate were brought to central concentration camps and from there deported to camp Gurs in southern france. The oldest was 97 years old. Among them were about 300 jewish fellow citizens from Freiburg.\n\nThose who didn’t die because of hunger and diseases, were deported mainly to the eastern extermination camps Auschwitz and Maidanék from August 1942 on. Over 5,200 of those deported to Gurs died as victims of violence.\n\nToo many have then looked away, too few have resisted. This must not and will not be repeated.</string>
     <string name="buerckel_lat" translatable="false">47.995228</string>
     <string name="buerckel_long" translatable="false">7.846164</string>
 
     <string name="stolpersteine_name">"Stumbling Stones"</string>
-    <string name="stolpersteine_description">Stumbling Stones are memorial plaques found all across
-        Freiburg in memory of each Jew who lived at that address. They include their names, birth,
-        deportation and/or death date. This is the biggest cluster of six stumbling stones found at
-        Eisenbahnstraße 66 commemorating members of the families Abraham and Grumbacher.</string>
+    <string name="stolpersteine_description">Stumbling Stones are memorial plaques found all across Freiburg in memory of each Jew who lived at that address. They include their names, birth, deportation and/or death date. This is the biggest cluster of six stumbling stones found at Eisenbahnstraße 66 commemorating members of the families Abraham and Grumbacher.</string>
     <string name="stolpersteine_lat" translatable="false">47.997319</string>
     <string name="stolpersteine_long" translatable="false">7.843346</string>
 
     <string name="blauebrucke_name">Memorial on the "Blaue Brücke"</string>
-    <string name="blauebrucke_description">Memmorial remembering the Jewish citizens from Freiburg
-        and surroundings, who were deported to Gurs, France, on 22/10/1940.\n\nThe inscription:
-        \n\"22/10/1940 over 450 Jews from Freiburg and the area were deported on the order of the
-        National Socialist regional adminsitrator from the warehouse of the station of the time to
-        the South French camp Gurs.\nMany of them already died in Gurs due to hunger and illnesses,
-        most were murdered in the extermination camp Auschwitz.\n\nCity of Freiburg, October
-        2003\"</string>
+    <string name="blauebrucke_description">Memmorial remembering the Jewish citizens from Freiburg and surroundings, who were deported to Gurs, France, on 22/10/1940.\n\nThe inscription:  \n\"22/10/1940 over 450 Jews from Freiburg and the area were deported on the order of the National Socialist regional adminsitrator from the warehouse of the station of the time to the South French camp Gurs.\nMany of them already died in Gurs due to hunger and illnesses, most were murdered in the extermination camp Auschwitz.\n\nCity of Freiburg, October 2003\"</string>
     <string name="blauebrucke_lat" translatable="false">47.996014</string>
     <string name="blauebrucke_long" translatable="false">7.840006</string>
 
     <string name="hebelschule_name">Memorial at the Hebel School</string>
-    <string name="hebelschule_description">Memorial marker on the Hebel School in Freiburg, Germany.
-        Jews from southern Germany were assembled in the schoolyard on October 22, 1940, immediately
-        prior to walking to the nearby train station and then being transported to the concentration
-        camp at Gurs, France.\n\nThe inscription:\n\n\"22/10/1940 here in the Hebel school yard many
-        hundreds of Jews from South Germany were taken into custody and transported to Gurs for
-        inihalation. \n\nIn memory and to always remember.\n\nNever again Fashism\nNever again
-        National Socialism\nNever again xenophobia.</string>
+    <string name="hebelschule_description">Memorial marker on the Hebel School in Freiburg, Germany. Jews from southern Germany were assembled in the schoolyard on October 22, 1940, immediately prior to walking to the nearby train station and then being transported to the concentration camp at Gurs, France.\n\nThe inscription:\n\n\"22/10/1940 here in the Hebel school yard many hundreds of Jews from South Germany were taken into custody and transported to Gurs for inihalation. \n\nIn memory and to always remember.\n\nNever again Fashism\nNever again National Socialism\nNever again xenophobia.</string>
     <string name="hebelschule_lat" translatable="false">47.997503</string>
     <string name="hebelschule_long" translatable="false">7.835736</string>
 
     <string name="vordtriede_name">"Käthe-Vordetreide-Weg" road sign</string>
-    <string name="vordtriede_description">" Riesefeld is a new suburb of Freiburg, that took the
-        opportunity of creating new street names to commemorate a Jewish citizen from WW II.
-        \n\nThe inscription:\n\"K. Vortriede 1891–1964, jorunalist in Freiburg, Jew and Social
-        Democrate was forced to emigrate in 1939. Author of letters critical of the time.\""</string>
+    <string name="vordtriede_description">" Riesefeld is a new suburb of Freiburg, that took the opportunity of creating new street names to commemorate a Jewish citizen from WW II.\n\nThe inscription:\n\"K. Vortriede 1891–1964, jorunalist in Freiburg, Jew and Social Democrate was forced to emigrate in 1939. Author of letters critical of the time.\""</string>
     <string name="vordtriebe_lat" translatable="false">47.998016</string>
     <string name="vordtriebe_long" translatable="false">7.785265</string>
 
     <string name="oldsyn_name">Memorial for the destroyed synagogue</string>
-    <string name="oldsyn_description">In front of the college building II of the Freiburg university
-        is this memorial commemorating the old synagogue that stood here, that was destroyed during
-        WW II.\n\n The inscription:\n \"Here stood the synagogue of the Israeli community of
-        Freiburg. Built in 1870 it was destroyed 10th November, 1938, under a reign of violence
-        and injustice.\"</string>
+    <string name="oldsyn_description">In front of the college building II of the Freiburg university is this memorial commemorating the old synagogue that stood here, that was destroyed during WW II.\n\n The inscription:\n \"Here stood the synagogue of the Israeli community of Freiburg. Built in 1870 it was destroyed 10th November, 1938, under a reign of violence and injustice.\"</string>
     <string name="oldsyn_lat" translatable="false">47.994504</string>
     <string name="oldsyn_long" translatable="false">7.846062</string>
 
     <string name="synplaque_name">Plaque on exterior wall of New Synagogue</string>
-    <string name="synplaque_description">Memorial for the deportation of the Jews in Freiburg on 22
-        October 1940, mounted on the exterior wall of Freiburg\'s new synagogue by the city of
-        Freiburg in 1990.\n\nThe inscription:\n\"Earth, do not cover my blood and may my cry never
-        be laid to rest. Job 16,18\n\nOn 22nd October, 1940 the Jewish citizens of city Freiburg
-        were deportet to Gurs in Sotuh France under the NS-Diktatur regime. The city remembers in
-        shame and grief. Freiburg, 22nd October 1990.\"</string>
+    <string name="synplaque_description">Memorial for the deportation of the Jews in Freiburg on 22 October 1940, mounted on the exterior wall of Freiburg\'s new synagogue by the city of Freiburg in 1990.\n\nThe inscription:\n\"Earth, do not cover my blood and may my cry never be laid to rest. Job 16,18\n\nOn 22nd October, 1940 the Jewish citizens of city Freiburg were deportet to Gurs in Sotuh France under the NS-Diktatur regime. The city remembers in shame and grief. Freiburg, 22nd October 1990.\"</string>
     <string name="synplaque_lat" translatable="false">47.996394</string>
     <string name="syplaque_long" translatable="false">7.853619</string>
 
     <string name="newsyn_name">Plaque at entrance of the New Synagogue</string>
-    <string name="newsyn_description">Plaque at the entrance to Freiburg\'s new synagogue, dedicated
-        on November 5, 1987.\n\nInscription:\n\"The Freiburg Synagogue, after pillage and destruction
-        during the NS-era, was re-edified and dedicated on November 5th, 1987.\n\nmy house will be
-        called a house of prayer for all nations. Is 56,7\"</string>
+    <string name="newsyn_description">Plaque at the entrance to Freiburg\'s new synagogue, dedicated on November 5, 1987.\n\nInscription:\n\"The Freiburg Synagogue, after pillage and destruction during the NS-era, was re-edified and dedicated on November 5th, 1987.\n\nmy house will be called a house of prayer for all nations. Is 56,7\"</string>
     <string name="newsyn_lat" translatable="false">47.996394</string>
     <string name="newsyn_long" translatable="false">7.853619</string>
 
     <string name="schelenz_name">Schelenz Memorial</string>
-    <string name="schelenz_description">Walter Schelenz, Mahnmal für die Opfer des
-        Nationalsozialismus, 1975, –  Rotteckring, Platz der Alten Synagoge.</string>
+    <string name="schelenz_description">Walter Schelenz, Mahnmal für die Opfer des Nationalsozialismus, 1975, –  Rotteckring, Platz der Alten Synagoge.</string>
     <string name="schelenz_lat" translatable="false">47.996078</string>
     <string name="schelenz_long" translatable="false">7.846633</string>
 
     <string name="annaplatz_name">Memorial of the Jewish Deportation at the Anna Square</string>
-    <string name="annaplatz_description">Memorial for the Jewish deportation to Gurs at the Anna
-        square in Freiburg\n\nInscription:\nCitizens from the Baden, Palatinate and Saar Region of
-        Jewish beliefs or those who were declared Jewish by the inhuman race ideology were deported
-        under the terror regime of National Socialism.\n\nThe abduction of the women, men and
-        children from the Wiehre suburb concerned started in this place infront of all eyes, taking
-        them to the South French concentration camp Gurs.\n\nMost died there from the inhuman camp
-        conditions or were murdered later.\"</string>
+    <string name="annaplatz_description">Memorial for the Jewish deportation to Gurs at the Anna square in Freiburg\n\nInscription:\nCitizens from the Baden, Palatinate and Saar Region of Jewish beliefs or those who were declared Jewish by the inhuman race ideology were deported under the terror regime of National Socialism.\n\nThe abduction of the women, men and children from the Wiehre suburb concerned started in this place infront of all eyes, taking them to the South French concentration camp Gurs.\n\nMost died there from the inhuman camp conditions or were murdered later.\"</string>
     <string name="annaplatz_lat" translatable="false">47.985164</string>
     <string name="annaplatz_long" translatable="false">7.845881</string>
 
     <string name="herder_name">Memorial by Herder Edition</string>
-    <string name="herder_description">Infront of the college building II of the Freiburg University
-        is the memorial donated by the Herder Edition. \n\nThe two lying stone slabs have the
-        inscription:\n\"In gratitude for the preservation of the city and munster on 27th November,
-        1944 and in memory of the synagogue.\"</string>
+    <string name="herder_description">Infront of the college building II of the Freiburg University is the memorial donated by the Herder Edition. \n\nThe two lying stone slabs have the inscription:\n\"In gratitude for the preservation of the city and munster on 27th November, 1944 and in memory of the synagogue.\"</string>
     <string name="herder_lat" translatable="false">47.994575</string>
     <string name="herder_long" translatable="false">7.846214</string>
 
     <string name="cemetry_name">Momuent at the Jewish Cemetry</string>
-    <string name="cemetry_description">Denkmal für die jüdischen Opfer der Gewaltherrschaft von
-        1933 - 1945.\n\nInschriftentafel:\n\"Den jüdischen Opfern der Gewaltherrschaft
-        1933 – 1945\"</string>
+    <string name="cemetry_description">Denkmal für die jüdischen Opfer der Gewaltherrschaft von 1933 – 1945.\n\nInschriftentafel:\n\"Den jüdischen Opfern der Gewaltherrschaft 1933 – 1945\"</string>
     <string name="cemetry_lat" translatable="false">48.012443</string>
     <string name="cemetry_long" translatable="false">7.828644</string>
 
     <string name="zwangsschule_name">Memorial Plaques at Lessing School</string>
-    <string name="zwangsschule_description">Memorial at the site of the compulsory school for Jewish
-        children from Freiburg and the surrounding region that operated from October 21, 1936, until
-        the Reichskristallnacht on November 10, 1938.\n\nfirst plaque:\n\"In memory and as warning
-        \nCompulsory school for Jewish children\n\nJewish children from Freiburg and the surrounding
-        region were taught here, because they were not allowed to attend general schools due to the
-        racist laws. The students, their family and teachers were up against the national
-        socialistic persecution and extermination politics. Thanks to brae people form the
-        resistance many of these children could survive, but not their relatives.\nThe rescuers are
-        an example of tolerance and civil courage to us. We mourn with the rescued for the murdered.
-        \n✡\nFrom 21st October, 1936 to the Reichsprogromnacht on 10th November 1938 the compulsory
-        school was accommodated in this building. From March 1939 until the deportations to Gurs in
-        South West Fance on 22nd October 1940 lessons were held in the Jewish community house next
-        to the synagogue at the Werthmann Square.\nOctober 2004\"\n\nsecond plaque:\n\"Over 60
-        Jewish students kam\n\nfrom Breisach Raplh Eisemann, Bianca Gelsmar,Werner Geisamer, Günther
-        Levy, Gretel Levy, Ruth Levy, Rosi Uffenheimer, Alex Wurmser, Alfred Weil, from Eichstetten
-        Wittrude Hene, Ilse Weil, from Emmendingen Alfred Geismar, Else Geismar, Lore Grünebaum,
-        Hugo Günzburger, Lisbeth Günzburger, Susi Günzburger, Herta Weil, Margot Weil, from Freiburg
-        Heinrich Alpern, Alice Bloch, Rudolf Bloch, Walter Bloch, Herbert Burger, Marlene Goldstein,
-        Gertrude Günzburger, Nelly Heilbrunner, Ilse Judas, Renate Kaufmann, Walter Kaufmann, Ruth
-        Mayer, Max Plaut, Hanna Reichmann, Hede Reutlinger, Rita Rosenberger, Esther Schärf, Manfred
-        Schärf, Leo Wertheimer, from Friesenheim Richard Levi, from Haslach Eugen Moses, Helmut
-        Moses,\"\n\nthird plaque:\n\"from Ihringen Anneliese Judas, Karl Judas, Gretel Judas,
-        Ingeborg Judas, Kurt Judas, Kurt Lion, from Kenzingen Alice Dreifuß, from Kippenheim Heinz
-        Maier, Kurt Maier, Flora Wertheimer, from Müllheim Rolf Zivi, Wolfgang Zivi, from Offenburg
-        Esther Cohn, Eva Cohn, Myriam Cohn, Susi Greilsheimer, Renate Haberer, Hedwig Hammel,
-        Ingeborg Hammel, Rudolf Hammer, Kurt Hammel, Hannelore Kahn, Margot Kramer, Selma Maier,
-        from Sohmieheim Egon Bloch, Lore Bloch, Margot Dreyfuss, from Villingen Lotte Schwab, …
-        \n\nThe teachers\nDr. Alice Weil-Mendel, Alfred Kaufmann, Adolf Reutlinger, Klara Maier,
-        Dr. Ilse Hamburger, Professor Maier and Herr Strauß.\nJuly 2006\"</string>
+    <string name="zwangsschule_description">Memorial at the site of the compulsory school for Jewish children from Freiburg and the surrounding region that operated from October 21, 1936, until the Reichskristallnacht on November 10, 1938.\n\nfirst plaque:\n\"In memory and as warning\nCompulsory school for Jewish children\n\nJewish children from Freiburg and the surrounding region were taught here, because they were not allowed to attend general schools due to the racist laws. The students, their family and teachers were up against the national socialistic persecution and extermination politics. Thanks to brae people form the resistance many of these children could survive, but not their relatives.\nThe rescuers are an example of tolerance and civil courage to us. We mourn with the rescued for the murdered. \n✡\nFrom 21st October, 1936 to the Reichsprogromnacht on 10th November 1938 the compulsory school was accommodated in this building. From March 1939 until the deportations to Gurs in South West Fance on 22nd October 1940 lessons were held in the Jewish community house next to the synagogue at the Werthmann Square.\nOctober 2004\"\n\nsecond plaque:\n\"Over 60 Jewish students kam\n\nfrom Breisach Raplh Eisemann, Bianca Gelsmar,Werner Geisamer, Günther Levy, Gretel Levy, Ruth Levy, Rosi Uffenheimer, Alex Wurmser, Alfred Weil, from Eichstetten Wittrude Hene, Ilse Weil, from Emmendingen Alfred Geismar, Else Geismar, Lore Grünebaum, Hugo Günzburger, Lisbeth Günzburger, Susi Günzburger, Herta Weil, Margot Weil, from Freiburg Heinrich Alpern, Alice Bloch, Rudolf Bloch, Walter Bloch, Herbert Burger, Marlene Goldstein, Gertrude Günzburger, Nelly Heilbrunner, Ilse Judas, Renate Kaufmann, Walter Kaufmann, Ruth Mayer, Max Plaut, Hanna Reichmann, Hede Reutlinger, Rita Rosenberger, Esther Schärf, Manfred Schärf, Leo Wertheimer, from Friesenheim Richard Levi, from Haslach Eugen Moses, Helmut Moses,\"\n\nthird plaque:\n\"from Ihringen Anneliese Judas, Karl Judas, Gretel Judas, Ingeborg Judas, Kurt Judas, Kurt Lion, from Kenzingen Alice Dreifuß, from Kippenheim Heinz Maier, Kurt Maier, Flora Wertheimer, from Müllheim Rolf Zivi, Wolfgang Zivi, from Offenburg Esther Cohn, Eva Cohn, Myriam Cohn, Susi Greilsheimer, Renate Haberer, Hedwig Hammel, Ingeborg Hammel, Rudolf Hammer, Kurt Hammel, Hannelore Kahn, Margot Kramer, Selma Maier, from Sohmieheim Egon Bloch, Lore Bloch, Margot Dreyfuss, from Villingen Lotte Schwab, …\n\nThe teachers\nDr. Alice Weil-Mendel, Alfred Kaufmann, Adolf Reutlinger, Klara Maier, Dr. Ilse Hamburger, Professor Maier and Herr Strauß.\nJuly 2006\"</string>
     <string name="zwangsschule_lat" translatable="false">47.989753</string>
     <string name="zwangsschule_long" translatable="false">7.847206</string>
 
     <!--Schlossberg History -->
     <string name="ludwigshohe_name">Ludwigshöhe</string>
-    <string name="lugwigshohe_description">"Ludwigshöhe on the Schlossberg (castle mountain).
-        \n\nInscription:\n\"Ludwigshöhe. The duke of Zähringen, builder and founder of Freiburg in
-        the year MCXX. Eternally grateful to the high descendant, our Ludwig great duke of Baden.
-        \nFaithfully admired by the citizens of this oldest, first city of Zähringen.To joyously
-        remember the VII. jubilee of the foundation. Lovingly dedicated on Ludwig Day Aug. MDCCCXX.
-        solemnly inaugurated.\""</string>
+    <string name="lugwigshohe_description">"Ludwigshöhe on the Schlossberg (castle mountain).\n\nInscription:\n\"Ludwigshöhe. The duke of Zähringen, builder and founder of Freiburg in the year MCXX. Eternally grateful to the high descendant, our Ludwig great duke of Baden. \nFaithfully admired by the citizens of this oldest, first city of Zähringen.To joyously remember the VII. jubilee of the foundation. Lovingly dedicated on Ludwig Day Aug. MDCCCXX. solemnly inaugurated.\""</string>
     <string name="ludwigshohe_lat" translatable="false">47.993708</string>
     <string name="ludwigshohe_long" translatable="false">7.858219</string>
 
     <string name="hoffmann_name">Memorial Plaque for Dr. Hoffmann and his Wife</string>
-    <string name="hoffmann_description">"Here lies the best and most faithful of all mothers Johanne
-        Frederick Hoffmann née Bleymüller.\n* 19th August 1780\n† 24th March 1860\n\nHere lies an
-        old man, who always followed his own research and dreams building on justice instead blindly
-        trusting human law. Those who knew him bear witness to this. May the almighty judge offer us
-        mercy and clarity.\nChristian august Hoffmann, dr. med.\n* 27th August, 1790. † 6th December
-        1868."</string>
+    <string name="hoffmann_description">"Here lies the best and most faithful of all mothers Johanne Frederick Hoffmann née Bleymüller.\n* 19th August 1780\n† 24th March 1860\n\nHere lies an old man, who always followed his own research and dreams building on justice instead blindly trusting human law. Those who knew him bear witness to this. May the almighty judge offer us mercy and clarity.\nChristian august Hoffmann, dr. med.\n* 27th August, 1790. † 6th December 1868."</string>
     <string name="hoffmann_lat" translatable="false">47.992637</string>
     <string name="hoffmann_long" translatable="false">7.86182</string>
 
     <string name="schlossberg1_name">Schlossberg: Historic Walk Display 1</string>
-    <string name="schlossberg1_description">Schlossberg of Freiburg Fortress\nHistoric walk\n Display
-        number You are here o\n xxx</string>
+    <string name="schlossberg1_description">Schlossberg of Freiburg Fortress\nHistoric walk\nDisplay number You are here o\n\n<b><i>The storage</i> (Fort de l’Etoile/Fort Carré) <i> in the upper castle</i> (Fort Saint Pierre)</b>\n\n<i>The storage, connecting the lower castle with the upper castle built from 1679 onwards, creates a self-contained fortification on a roughly square blue print. Due to its shape it was called “Fort de l’Etoile“ or „Fort Carré”.</i>\n\n<small>The upper castle with the storage „Plan du Fort de l’Etoile et du Fort St. Pierre“\nFound at: Bibliothèque de l’Inspection de Génie Vincennes</small>\n\n<i>A connecting path(Communication) lead through the construction from the upper castle over the Salzbüchsle (Fort de l’aigle) to the lower castle (Château).\nThe storage was already part of the first plans by Vauban, who completed the Schlossberg fortress with the upper castle which originally ended with the Salzbüchsle. In case of an assault on the lower castle it served as last possible fallback position for the garrison. Draw bridges lead from the greate Communication to the storage and connected it with the back of the upper castle. Within was construction shielded by corner bastions and trench system that contained a courtyard flanked by barracks and and the commanders quarters.</i>\n\n<small>Longitudinal section across the storage „Profil du Fort Carré ou le Stock“\nFound at: Austrian war archive Vienna.</small>\n\nBlue print and section of the storage – barracks „Fort de l’Etoile. Caserne dans ledit fort“\nFound at: Bibliothèque del’Inspection du Génie Vincennes</string>
     <string name="schlossberg1_lat" translatable="false">47.995753</string>
     <string name="schlossberg1_long" translatable="false">7.86576</string>
 
     <string name="schlossberg2_name">Schlossberg: A Hint of History</string>
-    <string name="schlossberg2_description">A Hint of History\nFreiburg and the Schlossberg were
-        always of particular interest due to their situation. The Schlossberg bears its name with
-        reason, as the Zähringer already erected their castle called “Burghaldenschloss” here in the
-        11th century.\nThe securities around the  Burghaldenschlosswere tightened during the 30-year
-        war. The canon square stems from this era. Freiburg was at the center of the conflict between
-        Austria and France after 1648. The city was conquered in 1677 and incorporated together with
-        this castle in a mighty fortress, designed by the architect Vauban by order of the French
-        king Ludwig XIV. The fortification and castle were destroyed in 1744. The points of the
-        wooden bars on the play ground commemorate the lances and spears and with them the war
-        times, when soldiers used to stand guard on the fortress walls.</string>
+    <string name="schlossberg2_description">A Hint of History\nFreiburg and the Schlossberg were always of particular interest due to their situation. The Schlossberg bears its name with reason, as the Zähringer already erected their castle called “Burghaldenschloss” here in the 11th century.\nThe securities around the  Burghaldenschlosswere tightened during the 30-year war. The canon square stems from this era. Freiburg was at the center of the conflict between Austria and France after 1648. The city was conquered in 1677 and incorporated together with this castle in a mighty fortress, designed by the architect Vauban by order of the French king Ludwig XIV. The fortification and castle were destroyed in 1744. The points of the wooden bars on the play ground commemorate the lances and spears and with them the war times, when soldiers used to stand guard on the fortress walls.</string>
     <string name="schlossberg2_lat" translatable="false">47.993273</string>
     <string name="schlossberg2_long" translatable="false">7.856948</string>
 
     <string name="schlossberg3_name">Schlossberg: Historic Walk Display 3</string>
-    <string name="schlossberg3_description">Schlossberg of Freiburg Fortress\nHistoric walk\n Display
-        number You are here o\n<b>The upper castle\n(Fort Saint Pierre)</b>\n<i>The strung out upper
-            castle was the main part of the fortification and was built by engineers starting in 1679
-            following plans by Sébastien de Vauban. It creates a constructional unit with the
-            storage (Fort Carré oder Fort de l’Etoile), which enabled secure access from the lower
-            castle. The actual upper castle incorporates storage and barracks.</i>
-        \n\n<small>Isometrics of the upper castle “Fort de St. Pierre”. The main archway was
-            found here  ◯: Austrian war archives Vienna. </small>\n\n<i>The Peterkirche (church)
-            stood in the center of the courtyard. On the North the upper castle was shielded by a
-            hornworm, to the North West by a bigger construction.\nThe path coming from the present
-            Burghaldenring  secured the upstream route (Redoute du Chemie), which can still be
-            traced easily in the terrain today.</i>\n\n<small>Ground plan of the upper castle with
-            Salzbüchsle ◯ and the upstream buildings “Plan et situation du Salspuchsle” found in:
-            Austria. war archive Vienna. </small>\n\n<i>The castle access is gained via a
-            architecturally complex created main gateway (porte Prinzipale)</i>\n\n<small>Ground
-            plan and aspect of the main gateway of the upper castle “Plan et Elevation dune porte
-            du Fort St. Pierre” l’Inspection du Geier Vincennes</small>\n\n<i> with upstream,
-            triangular place of arms (place d’armes), which has also left its mark in the terrain
-            (located display plaque). A deconstructible bridge went from the place of arms over the
-            trench to the gateway, which lead through the inner wall. A covered path went along the
-            outside of the trench (Chemie couvert), which was lowered towards the sloped exterior
-            (glacis) and was secured by stockades. The process of the stockades can be traced
-            following the concretee bollards.</i>\n\nWe offer our gratitude to Sparkasse
-        Freiburg-Northern Breisgau for supporting the Freiburg Schlosserg e.V. board of trustees. We
-        also offer our gratitude to Bernhard Sänger GmbH, construction company and company Dr.
-        Lauck, surface technology for the manufacturing of these information boards.</string>
+    <string name="schlossberg3_description">Schlossberg of Freiburg Fortress\nHistoric walk\n Display number You are here o\n<b>The upper castle\n(Fort Saint Pierre)</b>\n<i>The strung out upper castle was the main part of the fortification and was built by engineers starting in 1679 following plans by Sébastien de Vauban. It creates a constructional unit with the storage (Fort Carré oder Fort de l’Etoile), which enabled secure access from the lower castle. The actual upper castle incorporates storage and barracks.</i>\n\n<small>Isometrics of the upper castle “Fort de St. Pierre”. The main archway was found here  ◯: Austrian war archives Vienna. </small>\n\n<i>The Peterkirche (church) stood in the center of the courtyard. On the North the upper castle was shielded by a hornworm, to the North West by a bigger construction.\nThe path coming from the present Burghaldenring  secured the upstream route (Redoute du Chemie), which can still be traced easily in the terrain today.</i>\n\n<small>Ground plan of the upper castle with Salzbüchsle ◯ and the upstream buildings “Plan et situation du Salspuchsle” found in: Austria. war archive Vienna. </small>\n\n<i>The castle access is gained via a architecturally complex created main gateway (porte Prinzipale)</i>\n\n<small>Ground plan and aspect of the main gateway of the upper castle “Plan et Elevation dune porte du Fort St. Pierre” l’Inspection du Geier Vincennes</small>\n\n<i> with upstream, triangular place of arms (place d’armes), which has also left its mark in the terrain (located display plaque). A deconstructible bridge went from the place of arms over the trench to the gateway, which lead through the inner wall. A covered path went along the outside of the trench (Chemie couvert), which was lowered towards the sloped exterior (glacis) and was secured by stockades. The process of the stockades can be traced following the concretee bollards.</i>\n\nWe offer our gratitude to Sparkasse Freiburg-Northern Breisgau for supporting the Freiburg Schlosserg e.V. board of trustees. We also offer our gratitude to Bernhard Sänger GmbH, construction company and company Dr. Lauck, surface technology for the manufacturing of these information boards.</string>
     <string name="schlossberg3_lat" translatable="false">47.996476</string>
     <string name="schlossberg3_long" translatable="false">7.865878</string>
 
     <string name="schlossberg4_name">Schlossberg: Historic Walk Display 4</string>
-    <string name="schlossberg4_description">Fortress: Schlossberg of Freiburg\n<b>The Schlossberg as
-        part of city history</b>\nFrom time immemorial the Dream valley of the Freiburg area created
-        an important access point to the high Black Forest area. Thus the Schlossberg was a
-        strategically important place to command the area from. It was seized in 1091 bei the dukes
-        of Zähringen as their main castle and at its feet they founded the city of Freiburg.
-        Following the 30-year war the by now Habsburgian city and the Schlossberg were sieged by
-        French troops in 1677 and expanded to a modern fortress following the plans by the renown
-        architect Vauban. Freiburg rejoined the Reich in 1697, but was reconquered in 1713 and 1744
-        by the French, who before finally leaving in 1745 completed the fortification. This brought
-        a distressing era of wars to a close, that cost 30,000 soldiers from Freiburg their lives.
-        A new light forest park was created, pervaded by walkways, on the ruins of the Schlossberg
-        fortress by the end of the 19th century. After WW II the history was sinking more and more
-        into oblivion.\nThe Freiburg Schlossberg board of trustees, founded in 1997, set itself the
-        target, to make the prominent meaning of the Schlossberg for Freiburg visible again. From
-        the Schlossberg tower you can enjoy a wonderful view of the city and its history, which was
-        erected by the board of trustees in 2002. On you way there you will encounter further
-        information boards.\n\nThe sandstone plaque adjacent to this board was erected on the canon
-        square at the start of the 19th century. The single sections of the Schlossberg fortress
-        listed on the plaque are in part misleading. They are based on confusions and do not
-        correspond with the terminology used by Vauban in his build of the construction. These can
-        be found on the indications offered by the aluminium plaques mounted on the old
-        construction.</string>
+    <string name="schlossberg4_description">Fortress: Schlossberg of Freiburg\n<b>The Schlossberg as part of city history</b>\nFrom time immemorial the Dream valley of the Freiburg area created an important access point to the high Black Forest area. Thus the Schlossberg was a strategically important place to command the area from. It was seized in 1091 bei the dukes of Zähringen as their main castle and at its feet they founded the city of Freiburg. Following the 30-year war the by now Habsburgian city and the Schlossberg were sieged by French troops in 1677 and expanded to a modern fortress following the plans by the renown architect Vauban. Freiburg rejoined the Reich in 1697, but was reconquered in 1713 and 1744 by the French, who before finally leaving in 1745 completed the fortification. This brought a distressing era of wars to a close, that cost 30,000 soldiers from Freiburg their lives. A new light forest park was created, pervaded by walkways, on the ruins of the Schlossberg fortress by the end of the 19th century. After WW II the history was sinking more and more into oblivion.\nThe Freiburg Schlossberg board of trustees, founded in 1997, set itself the target, to make the prominent meaning of the Schlossberg for Freiburg visible again. From the Schlossberg tower you can enjoy a wonderful view of the city and its history, which was erected by the board of trustees in 2002. On you way there you will encounter further information boards.\n\nThe sandstone plaque adjacent to this board was erected on the canon square at the start of the 19th century. The single sections of the Schlossberg fortress listed on the plaque are in part misleading. They are based on confusions and do not correspond with the terminology used by Vauban in his build of the construction. These can be found on the indications offered by the aluminium plaques mounted on the old construction.</string>
     <string name="schlossberg4_lat" translatable="false">47.993507</string>
     <string name="schlossberg4_long" translatable="false">7.857405</string>
 
     <string name="schlossberg5_name">Schlossberg: Historic Walk Display 5</string>
-    <string name="schlossberg5_description">Schlossberg of Freiburg Fortress Historic walk  Display
-        number ◯ You are here o \n<b><i>The commander’s garden in the upper castle</i>\n(Fort Saint
-            Pierre)</b>\n<i> A French style garden trace was created in 1706, the so called
-            “commander’s garden” between the redoute and the place of arms in front of the main
-            gateway (porte Prinzipale) of the upper castle.</i>\n\n<small> Diagonal view of the
-            commander’s garden and the upper castle, Salzbüchsle and redoute from the Pergament
-            plan.\nFound at: Augustinermuseum, Freiburg</small>\n\n<i>Paths crossing at right angles
-            divides the small construction in square patches. Paths link the park with the castle,
-            the main gateway and the commander’s house in the storage (Fort Carré). The garden was
-            redesigned regularly maintaining the basic pattern.</i>\n\n<small> Isometry of the upper
-            castle with commander’s garden\nFound at: Austrian  war archive Vienna</small>\n\n<i>The
-            sketched plans by the imperial colonel engineer Melchior August de la Veneire, who was
-            responsible for the extension and maintenance in the near-Austrian territories from
-            1707 until his death in 1739, probably relate to the Pavillon on the central axis. It
-            seems that only the central building of his Japanese-Chinese inspired pleasure house
-            „Maison de plaisance“ was implemented. There was a further small building to one side,
-            which was probably the gardener’s shed.\nMany clay pipe heads were found in the
-            commander’s garden, one of the few civil constructions in the fortification, which
-            points to a rather tranquil life and the typical recreational activities of the soldiers
-            during peace times.</i>.\n\n<small>Frontal view of the pleasure house Lusthaus „Maison
-            de plaisance“ of duke de la Venerie, Freiburg\nFound at: National Art Hall, Karlsruhe
-        </small>\n\n<small>Side view of the pleasure house Lusthaus „Maison de plaisance“ of duke de
-            la Venerie, Freiburg\nFound at: National Art Hall, Karlsruhe</small>\n\n<i> A sloping
-            meadow was created in the 1830s, following the example of the people’s park. According
-            to the plans of garden director Robert Schimpf a tree-shielded viewing trace was created
-            on the terrain of the commander’s garden, which was transformed further into a new
-            construction in 1999 following the idea of a baroque park.</i></string>
+    <string name="schlossberg5_description">Schlossberg of Freiburg Fortress Historic walk  Display number ◯ You are here o \n<b><i>The commander’s garden in the upper castle</i>\n(Fort Saint Pierre)</b>\n<i> A French style garden trace was created in 1706, the so called “commander’s garden” between the redoute and the place of arms in front of the main gateway (porte Prinzipale) of the upper castle.</i>\n\n<small> Diagonal view of the commander’s garden and the upper castle, Salzbüchsle and redoute from the Pergament plan.\nFound at: Augustinermuseum, Freiburg</small>\n\n<i>Paths crossing at right angles divides the small construction in square patches. Paths link the park with the castle, the main gateway and the commander’s house in the storage (Fort Carré). The garden was redesigned regularly maintaining the basic pattern.</i>\n\n<small> Isometry of the upper castle with commander’s garden\nFound at: Austrian  war archive Vienna</small>\n\n<i>The sketched plans by the imperial colonel engineer Melchior August de la Veneire, who was responsible for the extension and maintenance in the near-Austrian territories from 1707 until his death in 1739, probably relate to the Pavillon on the central axis. It seems that only the central building of his Japanese-Chinese inspired pleasure house „Maison de plaisance“ was implemented. There was a further small building to one side, which was probably the gardener’s shed.\nMany clay pipe heads were found in the commander’s garden, one of the few civil constructions in the fortification, which points to a rather tranquil life and the typical recreational activities of the soldiers during peace times.</i>.\n\n<small>Frontal view of the pleasure house Lusthaus „Maison de plaisance“ of duke de la Venerie, Freiburg\nFound at: National Art Hall, Karlsruhe</small>\n\n<small>Side view of the pleasure house Lusthaus „Maison de plaisance“ of duke de la Venerie, Freiburg\nFound at: National Art Hall, Karlsruhe</small>\n\n<i> A sloping meadow was created in the 1830s, following the example of the people’s park. According to the plans of garden director Robert Schimpf a tree-shielded viewing trace was created on the terrain of the commander’s garden, which was transformed further into a new construction in 1999 following the idea of a baroque park.</i></string>
     <string name="schlossberg5_lat" translatable="false">47.996787</string>
     <string name="schlossberg5_long" translatable="false">7.865076</string>
 
     <string name="schlossberg6_name">A piece of Black Forest - in the Middle of Freiburg</string>
-    <string name="schlossberg6_description"><b>Here you can discover Freiburg’s origin and a genuine
-        piece of the Black Forest in the middle of the city:</b> in 1091, the Dukes of Zähringen
-        built the motte-and-bailey castle that gave the mountain its name on a spur of the Black
-        Forest at the entrance to the Dream River Valley. In 1120, Konrad von Zähringen granted
-        market rights to the settlement which simultaneously emerged at the base of the castle. The
-        medieval castle was included in the town’s modern fortification in the 17th century which
-        was completed under French rule by Sébastien de Vauban after 1677. After the demolition of
-        the fortification in 1744/45, only ruins of the motte-and-bailey castle and the remaining
-        complex remained, but the Schlossberg retained its importance in the urban structure.\nAbout
-        150 years ago, the city fathers developed systematic footpaths and vantage points in order
-        to create a recreational site for the citizens of Freiburg as well as for city’s guests.
-        \nThe Freiburg Schlossberg invites visitors to walk, enjoy and linger while relishing the
-        traces of an eventful history and outstanding gastronomy with its fantastic view of the
-        city.</string>
+    <string name="schlossberg6_description"><b>Here you can discover Freiburg’s origin and a genuine piece of the Black Forest in the middle of the city:</b> in 1091, the Dukes of Zähringen built the motte-and-bailey castle that gave the mountain its name on a spur of the Black Forest at the entrance to the Dream River Valley. In 1120, Konrad von Zähringen granted market rights to the settlement which simultaneously emerged at the base of the castle. The medieval castle was included in the town’s modern fortification in the 17th century which was completed under French rule by Sébastien de Vauban after 1677. After the demolition of the fortification in 1744/45, only ruins of the motte-and-bailey castle and the remaining complex remained, but the Schlossberg retained its importance in the urban structure.\nAbout 150 years ago, the city fathers developed systematic footpaths and vantage points in order to create a recreational site for the citizens of Freiburg as well as for city’s guests. \nThe Freiburg Schlossberg invites visitors to walk, enjoy and linger while relishing the traces of an eventful history and outstanding gastronomy with its fantastic view of the city.</string>
     <string name="schlossberg6_lat" translatable="false">47.992997</string>
     <string name="schlossberg6_long" translatable="false">7.854858</string>
 
     <string name="schlossberg7_name">Schlossberg: Historic Walk Display 7</string>
-    <string name="schlossberg7_description">Schlossberg of Freiburg Fortress \nHistoric walk
-        \n Display number ◯ You are here o \n\n<b>The Salzbüchsle</b>\nThe upper Schloßberg was
-        unfortified until the 17th century. Only when it was renovated and extended to a defence
-        facility after 1648 did the imperial architect add a massive walled gun emplacement, called
-        “Karlsburg“ (Karl’s castle).\n\n<small>View of the Karlsburg (A). „Das KarlsEgg oder Thurn“
-            aus “Prospect des Schlosses oder Festung Burghalden“, Johann Martin Gummi senior, ca.
-            1675, national archive Innsbruck.\n\nThis image has been mirrored for clarity.
-        </small>\n\nIn 1680 a systematical fortification of the Schlossberg took place after the
-        French siege of the city in 1677 under the supervision of the fortress architect Vauban. The
-        Karlsburg remained, converting it with bastions to “zum Adlerfort” (Fort de l‘Aigle), which
-        was colloquially called “Salzbüchsle”. After the fortress fell into Habsburgian ownership in
-        1698, the Salzbüchsle was encircled by further outworks and a Souterrain at the foot of the
-        tower by the imperial Freiburg manager of fortifications de la Venerie in 1728.
-        \n\n<small>Salzbüchsel 1685. “Représentation du Vieux Salzbüchsle en l’Etat ou il était …“
-            \n\nSalzbüchsle 1728. Extended by Venerie “Représentation du Fort avec ses nouvelles
-            Fortifications … exécutées … 1728.“\n\nMelchior August Comte de la Venerie, 1728,
-            Austrian war archive Vienna.\n\nThis image has been mirrored for clarity.
-        </small>\n\nThis impressive construction was lost in the detonation by the French armed
-        forces in 1745. This information board marks ⨂ the debris cone of the tower. In memorial to
-        the old gun emplacement the city council decided in 1912 to erect a massive stone work as
-        observation tower and summit station for a mountain railway. However, this intention was
-        given up in WW I.\n\n<small> Summit station with restaurant and tower on the summit of the
-            Schlossberg, project by urban planning authority Freiburg, 1912.</small>\n\nThe
-        intention of providing a panoramic view where the old Salzbüchsle stood was realised by the
-        board of trustees with support by the citizenship and the city by building the Schloßberg
-        tower in 2002.\n\n<small>We thank Architect Dipl.-Ing. Hubert Hornbach, Freiburg, structural
-            engineer Dipl.-Ing. Max Scherberger, Freiburg, test structural engineer Pro.f Dr. Ing.
-            Ulricke Kuhlmann, Stuttgart and  Winterhalter-Technologie in Stahl and Metall company,
-            Freiburg, wood constructors Schäfer OHG, Freiburg, Schmiedbarer Autokrane KG company,
-            Endingen, dBernhard Sänger conscription company GmbH, Freiburg-Ebnet and Schneider light
-            weight construction GmbH, Freiburg for their services in building the Schloßberg
-            tower.</small></string>
+    <string name="schlossberg7_description">Schlossberg of Freiburg Fortress \nHistoric walk \n Display number ◯ You are here o \n\n<b>The Salzbüchsle</b>\nThe upper Schloßberg was unfortified until the 17th century. Only when it was renovated and extended to a defence facility after 1648 did the imperial architect add a massive walled gun emplacement, called “Karlsburg“ (Karl’s castle).\n\n<small>View of the Karlsburg (A). „Das KarlsEgg oder Thurn“ aus “Prospect des Schlosses oder Festung Burghalden“, Johann Martin Gummi senior, ca. 1675, national archive Innsbruck.\n\nThis image has been mirrored for clarity.</small>\n\nIn 1680 a systematical fortification of the Schlossberg took place after the French siege of the city in 1677 under the supervision of the fortress architect Vauban. The Karlsburg remained, converting it with bastions to “zum Adlerfort” (Fort de l‘Aigle), which was colloquially called “Salzbüchsle”. After the fortress fell into Habsburgian ownership in 1698, the Salzbüchsle was encircled by further outworks and a Souterrain at the foot of the tower by the imperial Freiburg manager of fortifications de la Venerie in 1728.\n\n<small>Salzbüchsel 1685. “Représentation du Vieux Salzbüchsle en l’Etat ou il était …“\n\nSalzbüchsle 1728. Extended by Venerie “Représentation du Fort avec ses nouvelles Fortifications … exécutées … 1728.“\n\nMelchior August Comte de la Venerie, 1728, Austrian war archive Vienna.\n\nThis image has been mirrored for clarity.</small>\n\nThis impressive construction was lost in the detonation by the French armed forces in 1745. This information board marks ⨂ the debris cone of the tower. In memorial to the old gun emplacement the city council decided in 1912 to erect a massive stone work as observation tower and summit station for a mountain railway. However, this intention was given up in WW I.\n\n<small> Summit station with restaurant and tower on the summit of the Schlossberg, project by urban planning authority Freiburg, 1912.</small>\n\nThe intention of providing a panoramic view where the old Salzbüchsle stood was realised by the board of trustees with support by the citizenship and the city by building the Schloßberg tower in 2002.\n\n<small>We thank Architect Dipl.-Ing. Hubert Hornbach, Freiburg, structural engineer Dipl.-Ing. Max Scherberger, Freiburg, test structural engineer Pro.f Dr. Ing. Ulricke Kuhlmann, Stuttgart and  Winterhalter-Technologie in Stahl and Metall company, Freiburg, wood constructors Schäfer OHG, Freiburg, Schmiedbarer Autokrane KG company, Endingen, dBernhard Sänger conscription company GmbH, Freiburg-Ebnet and Schneider light weight construction GmbH, Freiburg for their services in building the Schloßberg tower.</small></string>
     <string name="schlossberg7_lat" translatable="false">47.994973</string>
     <string name="schlossberg7_long" translatable="false">7.862193</string>
 
     <string name="schlossberg8_name">Schlossberg: Historic Walk Display 8</string>
-    <string name="schlossberg8_description">>Schlossberg of Freiburg Fortress\nHistoric walk
-        \nDisplay number ◯ You are here o\n<i><b>The little redoute communicating with Fort de
-            l’Aigle – Salzbüchsle</b>\nThe most strategically important part of the French, after
-            the fortifications built for Freiburg in 1677, was the fortification of the
-            Schlossberg.</i>\n\n<small> Plan de Fribourg, ca. 1680, Bibliothègue National,
-            Paris</small>\n\n<i>It consists of three forts aligned behind and over each other across
-            the Schlossberg ridge: the lower „Vieux Chateau“ (Zähringerburg), the „Fort de l’Aigle“
-            (where the Schlossberg tower stands today) and the „Fort St. Pierre“ (upper castle) at
-            the highest point. The “small redoute” functioned as outwork for the Fort de l’Aigle, in
-            Freiburg colloquially called Salzbüchsle. This redoute was incorporated as panoramic
-            terrace when the Burghaldering was constructed in 1903. Its  bastion tip was
-            incorporated in current parapet. The little redoute connected directly to the Fort
-            situated above on the ridge by a stairway. It served as supply route , but was also used
-            as escape route, available to the defense, when the little redoute could no longer be
-            held in war times. The stairway was cut as a channel into slope to ensure that the
-            defense was not hit by shallow, lateral fire. Its course was built straight by Vauban
-            around 1680, but the higher part was slanted to the west in 1714.</i>\n\n<small>The
-            communication little Redoute/Salzbüchsle. Reconstruction of the system by Vauban.\n\nThe
-            Schlossberg stairs built at its original place.</small>\n\n<i>This construction is an
-        important connector today between the Salzbüchsle heights and the slope below. It played a
-        great role in enabling the slope path system to be extended in the Eastern parts of the
-        city. This lead to the south side of the Schlossberg with its exposition to sun and its
-        floral characteristics. Until recently local companies could hardly be reach the trade
-        channel along the foot of the mountain. Yet now access is more direct and more better
-        developed.\nThe board of trustees for the Freiburg Schlossberg renewed this typical section
-        of the Fortress in 2006/07. 288 steps intersected by 15 platforms lead to the reddit, an
-        stony outcrop situated slightly above the little redoute ,directly to the Salzbüchsle and
-        the Schlossberg tower. The stairway was solely funded by donations from the citizenship and
-        companies. The inscriptions of gratitude give an impression of how popular the Schlossberg
-        is in Freiburg.</i></string>
+    <string name="schlossberg8_description">Schlossberg of Freiburg Fortress\nHistoric walk\nDisplay number ◯ You are here o\n<i><b>The little redoute communicating with Fort de l’Aigle – Salzbüchsle</b>\nThe most strategically important part of the French, after the fortifications built for Freiburg in 1677, was the fortification of the Schlossberg.</i>\n\n<small> Plan de Fribourg, ca. 1680, Bibliothègue National, Paris</small>\n\n<i>It consists of three forts aligned behind and over each other across the Schlossberg ridge: the lower „Vieux Chateau“ (Zähringerburg), the „Fort de l’Aigle“ (where the Schlossberg tower stands today) and the „Fort St. Pierre“ (upper castle) at the highest point. The “small redoute” functioned as outwork for the Fort de l’Aigle, in Freiburg colloquially called Salzbüchsle. This redoute was incorporated as panoramic terrace when the Burghaldering was constructed in 1903. Its  bastion tip was incorporated in current parapet. The little redoute connected directly to the Fort situated above on the ridge by a stairway. It served as supply route , but was also used as escape route, available to the defense, when the little redoute could no longer be held in war times. The stairway was cut as a channel into slope to ensure that the defense was not hit by shallow, lateral fire. Its course was built straight by Vauban around 1680, but the higher part was slanted to the west in 1714.</i>\n\n<small>The communication little Redoute/Salzbüchsle. Reconstruction of the system by Vauban.\n\nThe Schlossberg stairs built at its original place.</small>\n\n<i>This construction is an important connector today between the Salzbüchsle heights and the slope below. It played a great role in enabling the slope path system to be extended in the Eastern parts of the city. This lead to the south side of the Schlossberg with its exposition to sun and its floral characteristics. Until recently local companies could hardly be reach the trade channel along the foot of the mountain. Yet now access is more direct and more better developed.\nThe board of trustees for the Freiburg Schlossberg renewed this typical section of the Fortress in 2006/07. 288 steps intersected by 15 platforms lead to the reddit, an stony outcrop situated slightly above the little redoute ,directly to the Salzbüchsle and the Schlossberg tower. The stairway was solely funded by donations from the citizenship and companies. The inscriptions of gratitude give an impression of how popular the Schlossberg is in Freiburg.</i></string>
     <string name="schlossberg8_lat" translatable="false">47.993663</string>
     <string name="schlossberg8_long" translatable="false">7.862193</string>
 
     <string name="schlossberg9_name">Schlossberg: Historic Walk Display 9</string>
-    <string name="schlossberg9_description">>Schlossberg of Freiburg Fortress\nHistoric walk
-        \nDisplay number ◯ You are here o  xxx</string>
+    <string name="schlossberg9_description">Schlossberg of Freiburg Fortress\nHistoric walk\nDisplay number ◯ You are here o\n<i><b>Peter’s Church (Chapelle St. Pierre) in the upper castle (Fort Saint Pierre)</b>\nThe garrison chapel built 1679 stood freely in the middle of the courtyard of the upper castle, serving the soldiers stationed in the castles. They were looked after by military clergymen and later Capuchin monks.</i>\n\n<small> Traverse section through the upper castle with the Peter’s Church ◯ „Vue et profil Fort de St. Pierre“\nFound at: Austrian war archive Vienna.</small>\n\n<i>The simple structure consisted of one nave with polygonal, North-East oriented choir stall and a wooden gallery at the entrance. A choir screen partitioned off the sanctuary. The pulpit was situated on the right wall. The altar in the choir was placed a few steps higher. The vestry lay behind it. A ridged turret holding the bell adorned with curled crest and cross sat above the gable of the church. The large cisterns lay directly in front of the entrance.</i>\n\n<small>Intersection, view and blue print of the Peter’s Church „Plan, profil et facade de l’église du Fort St. Pierre“\nFound at: Bibliothèque de l’Inspection de Génie Vincennes</small>\n\n<i>When the frotress was demolished in the spring of 1745 the Capuchins acquired the movable furnishings of the church to reuse elsewhere. The high altar was brought to the parish church Sankt Cyriak and Perpettua, Adelhausen (lower Wiehre), which was ruined several times before finally being renovated. It remains there to this day.\nGlancing at the hornwork it is striking to notice a big crater instead of a one-sided barracks wing and the wall behind the choir of the church. It is a result of the detonation of the gunner and underlying trenches of the upstream ravelin.\n\nThe Peter’s cross was installed in memory of the Peter’s Church in the upper castle and the soldier who fell on both sides at the fights around the fortress of Freiburg.</i>\n\nWe offer our gratitude for the support in constructing this cross: the engineer company Stoelcker-Theobald-Lampe, students of the German-French grammar school,  Philipp Holzmann AG, Winterhalter GmbH, Glanzner GmbH, urban forestry office and the Freiburg public transport company.</string>
     <string name="schlossberg9_lat" translatable="false">47.997374</string>
     <string name="schlossberg9_long" translatable="false">7.867354</string>
 
-
     <string name="schlossberg10_name">Schlossberg: Historic Walk Display 10</string>
-    <string name="schlossberg10_description">Schlossberg of Freiburg Fortress\nHistoric walk
-        \n\nDisplay number ◯ You are here o\n<b>Communication between castles via the\n
-            <i>Salzbüchsle</i></b>\nThe castle fortification based on the plans of the castle
-        building commissioner Vauban comprised of the upper castle (Fort St. Pierre und Fort Carré)
-        on the highest elevation, the lower castle (Ancien Château) and Salzbüchsle (Fort de
-        l’Aigle) situated between the two. The upper castle contained the main warehouse of the
-        overall structure.\n\n<small>Plan view of the fortification with its communication.
-            Extract from “Les forts de la Montagne de Fribourg”, ca. 1685.\nBibliothque de
-            l’inspection du Genie Vincennnes [sic!].”</small>\n\nBecause of this they needed to
-        install an efficient transport link between the three parts of the fortification. This link
-        (la Communication) allowing two-way traffic was installed on the Schlossberg ridge around
-        1680. A small reroute was attached to the link south of the Salzbüchsle. \n\n<small>Traverse
-            section „Profil d la grande Communication dans l’Etat ou elle est présentement“. Circa
-            1715, city archive of Freiburg.</small>\n\nTo enable communication during a siege, the
-        Link was integrated into the castle and furnished by stockades on both sides. The wall
-        trenches of this stockade paths could be excavated for the most part in good condition. In
-        contrast the lower link was mostly destroyed in 1745. Comte de la Venerie called on the
-        imperial manager of the fortification to reinforce the defenders of the construction after
-        the siege in by the French army in 1713. The location of this display ⨂ marks the remnants
-        of the second ring wall around the Salzbüchsle from 1728. \n\n<small>Second surrounding wall
-            of the Salzbüchsle. „Plan de … Salzbüchslein comme als doit être renforcé” Mâchoire
-            Auguste Comte de la Venerie 1723. Austrian war archive Vienna.
-        </small>\n\n<small>Traverse section. „Profil du Saltzbüschlein et de des nouveaux ouvrages“,
-            Melchior Auguste Comte de la Venerie 1723/28. Austrian war archive Vienna.
-        </small>\n\nSpecial thanks to Sparkasse Freiburg Northern Breisgau for their support.</string>
+    <string name="schlossberg10_description">Schlossberg of Freiburg Fortress\nHistoric walk\n\nDisplay number ◯ You are here o\n<b>Communication between castles via the\n<i>Salzbüchsle</i></b>\nThe castle fortification based on the plans of the castle building commissioner Vauban comprised of the upper castle (Fort St. Pierre und Fort Carré) on the highest elevation, the lower castle (Ancien Château) and Salzbüchsle (Fort de l’Aigle) situated between the two. The upper castle contained the main warehouse of the overall structure.\n\n<small>Plan view of the fortification with its communication. Extract from “Les forts de la Montagne de Fribourg”, ca. 1685.\nBibliothque de l’inspection du Genie Vincennnes [sic!].”</small>\n\nBecause of this they needed to install an efficient transport link between the three parts of the fortification. This link (la Communication) allowing two-way traffic was installed on the Schlossberg ridge around 1680. A small reroute was attached to the link south of the Salzbüchsle. \n\n<small>Traverse section „Profil d la grande Communication dans l’Etat ou elle est présentement“. Circa 1715, city archive of Freiburg.</small>\n\nTo enable communication during a siege, the Link was integrated into the castle and furnished by stockades on both sides. The wall trenches of this stockade paths could be excavated for the most part in good condition. In contrast the lower link was mostly destroyed in 1745. Comte de la Venerie called on the imperial manager of the fortification to reinforce the defenders of the construction after the siege in by the French army in 1713. The location of this display ⨂ marks the remnants of the second ring wall around the Salzbüchsle from 1728. \n\n<small>Second surrounding wall of the Salzbüchsle. „Plan de … Salzbüchslein comme als doit être renforcé” Mâchoire Auguste Comte de la Venerie 1723. Austrian war archive Vienna.</small>\n\n<small>Traverse section. „Profil du Saltzbüschlein et de des nouveaux ouvrages“, Melchior Auguste Comte de la Venerie 1723/28. Austrian war archive Vienna.</small>\n\nSpecial thanks to Sparkasse Freiburg Northern Breisgau for their support.</string>
     <string name="schlossberg10_lat" translatable="false">47.995364</string>
     <string name="schlossberg10_long" translatable="false">7.863346</string>
 
+    <string name="schlossberg_incorrect_name">Incorrect Plaque about the Schlossberg</string>
+    <string name="schlossberg_incorrect_description">Freiburg was refortified by Vauban whilst under the French crown from 1677–1697. Three self-contained structures were built on the Schlossberg. Here at this place the lower or St. Peter-castle, on the posterior Schlossberg the Eagle castle and between the two the Sternschange, now called half moon. All fortifications were demolished in 1745.</string>
+    <string name="schlossberg_incorrect_lat" translatable="false">47.993492</string>
+    <string name="schlossberg_incorrect_long" translatable="false">7.857415</string>
 
 
-    <!-- Excursions -->
-    <string name="strasbourg_name">Strasbourg</string>
-    <string name="strasbourg_description">Strasbourg is the capital of Elsass, France.</string>
-    <string name="strasbourg_lat" translatable="false">48.579444</string>
-    <string name="strasbourg_long" translatable="false">7.738389</string>
+    <!-- War History -->
+    <string name="loretto_name">Loretto Chapel</string>
+    <string name="loretto_description">"Cannon ball, that would have hit Louis XV on his observation post during his siege of Freiburg in 1744, stuck in the wall of Loretto's Chapel."</string>
+    <string name="loretto_lat" translatable="false">47.981375</string>
+    <string name="loretto_long" translatable="false">7.838544</string>
 
-    <string name="colmar_name">Colmar</string>
-    <string name="colmar_description">Colmar is the third-largest commune of the Alsace region in
-        north-eastern France.</string>
-    <string name="colmar_lat" translatable="false">48.0766</string>
-    <string name="colmar_long" translatable="false">7.358214</string>
+    <string name="martinsgate_name">Martin\'s Gate</string>
+    <string name="martinsgate_description">The plate above the archway commemorates until today the battle between the Freiburg militia, that was founded in 1793, and the revultionary troops from France. \n\nThe inscription:\n\"Monument to the volunteers of Freiburg under the major and city councilor Caluri and all the comrades-in-arms of Austria Breisgau, who honored themselves by their loyalty and bravery on 7th July 1796, for emperor and fatherland. Dedicated by their general baron von Duminique.\"</string>
+    <string name="martinsgate_lat" translatable="false">47.993775</string>
+    <string name="martinsgate_long" translatable="false">7.849031</string>
 
-    <string name="europapark_name">Europa Park</string>
-    <string name="europapark_description">Europa-Park in Rust (Germany) is Germany\'s biggest theme
-        park.</string>
-    <string name="europapark_lat" translatable="false">48.267111</string>
-    <string name="europapark_long" translatable="false">7.719194</string>
+    <string name="munster_name">Tambur Graffiti at the Munster</string>
+    <string name="munster_description">Graffiti by a German speaking drummer (tambur not tambour) of the Napoleanic Army 1810 on the outer wall of the munster choir.\n\nInscription:\n\"Tambur Hagenbuch 1810\"</string>
+    <string name="munster_lat" translatable="false">47.995489</string>
+    <string name="munster_long" translatable="false">7.852983</string>
 
-    <string name="staufen_name">Staufen</string>
-    <string name="staufen_description">Staufen lies in Breisgau Hochschwarzwald (Black Forest),
-        Baden_Württemberg. The city houses ca. 7800 citizens and is first mentioned in documents
-        from the 7th century. With the castle ruin as its backdrop the historic city center comes to
-        its full bloom. The Faust-legend supports its atmosphere, placing the meeting between Faust
-        and the devil in a hotel right in the center of the city.</string>
-    <string name="staufen_lat" translatable="false">47.886379</string>
-    <string name="staufen_long" translatable="false">7.731944</string>
+    <string name="barricade_name">Square of the Last Barricade</string>
+    <string name="barricade_description">Square of the last barricade during the 1848 Revolution near the Schwabentor.</string>
+    <string name="barricade_lat" translatable="false">47.9929</string>
+    <string name="barricade_long" translatable="false">7.854033</string>
 
-    <string name="schauinsland_name">Schauinsland</string>
-    <string name="schauinsland_description">As the name hints at, the Schauinsland (literally: look
-        into the land) offers a beautiful vista over the Black Forest and Breisgaul</string>
-    <string name="schauinsland_lat" translatable="false">47.902243</string>3
-    <string name="schauinsland_long" translatable="false">7.904642</string>
+    <string name="sternwald_name">Sternwald Memorial</string>
+    <string name="sternwald_description">Memorial stone near Günterstal commemorating the freedom fighters who were killed on April 23, 1884 by government forces\n\nInscription:\n\"In memory of the fighters for freedom and democracy who fell in the fight against government forces on Easter Sunday, 1848.\"</string>
+    <string name="sternwald_lat" translatable="false">47.970931</string>
+    <string name="sternwald_long" translatable="false">7.852028</string>
 
-    <string name="titisee_name">Titisee</string>
-    <string name="titisee_description">Titisee is a small lake and town in the Black Forest
-        (Schwarzwald) in Baden-Württemberg.</string>
-    <string name="titisee_lat" translatable="false">47.899143</string>
-    <string name="titisee_long" translatable="false">8.153425</string>
+    <string name="dortus_name">Mausoleum for Maximilian Dortus</string>
+    <string name="dortus_description">The Mausoleum of Maximilian Dortus, German revolutionary of 1848–49 shot by government troops at the very place in the Wiehre cemetry.</string>
+    <string name="dortus_lat" translatable="false">47.985811</string>
+    <string name="dortus_long" translatable="false">7.857147</string>
 
-    <string name="schluchsee_name">Schluchsee</string>
-    <string name="schluchsee_description">The Lake of Schluch is a reservoir near St. Balsien in
-        Breisgau-Hoschschwarzwald (Black Forest), Baden-Württemberg. It lies to the South East of
-        the Lake of Titi and is the largest lake of the Balck Forest.</string>
-    <string name="schluchsee_lat" translatable="false">47.842211</string>
-    <string name="schluchsee_long" translatable="false">8.112609</string>
+    <string name="dortusplaque_name">Memorial for Dortus</string>
+    <string name="dortusplaque_description">An dieser Stelle, dem ehmaligen Friedhof der Wiehre, erschossen nach der Niederschlagung der Badischen Revolution von 1848/49 Hinrichtungskommandos, der preußischen Besatzungsarmee Revolutionäre, die für Freiheit, Menschenrechte und Demokratie gekämpft hatten:\n\nMAXIMILIAN DORTU\n* 1826 in Potsdam, Unteroffizier der Reserve, Kommandant der Gernsbacher Volkswehr, hingerichtet am 31. Juli 1849.\n\nDie Eltern von Maximilian Dortu ließen auf eigene Kosten an der Hinrichtungsstätte dieses Mausoleum für ihren Sohn errichten und sind ebenfalls in der Gruft beigesetzt. Die Stadt Freiburg hat nach einer großzügigen Stiftung der Mutter von Max Dortu die Verpflichtung übernommen, die Grabstätte „auf ewige Zeiten ““ zu pflegen.\n\nFRIEDRICH NEFF\n* 1821 in Rümmingen, Kreis Lörrach, Student der Philosophie, Teilnehmer der Freischarenzüge mit Hecker und Struve, hingerichtet am 9. August 1849.\n\nGEBHARD KROMER\n* 1821 in Bombach, Kreis Kenzingen, Soldat, Korporal der badischen Revolutionsarmee, hingerichtet am 21. August 1849.\n\nJunge Frauen aus Uffhausen wurden vom preußischen Militär verhaftet, weil sie Blumen auf die Gräber der Hingerichteten legten.\n\nDie Freiheitskämpfer starben für Demokratie und Menschenrechte. Ihre Ziele wurden in der Verfassung der Weimarer Republik (1919–1933) und 1949 im Grundgesetz der Bundesrepublik Deutschland zum politischen Auftrag für eine freiheitliche, demokratische und soziale Gesellschaft.</string>
+    <string name="dortusplaque_lat" translatable="false">47.985859</string>
+    <string name="dortusplaque_long" translatable="false">7.857117</string>
 
-    <string name="basel_name">Basel</string>
-    <string name="basel_description">"Basel  is a city in northwestern Switzerland on the river
-        Rhine. Basel is Switzerland's third-most-populous city (after Zürich and Geneva) with about
-        175,000 inhabitants.\n\nLocated where the Swiss, French and German borders meet, Basel also
-        has suburbs in France and Germany. The cities agglomeration has ca. 830,000 inhabitants.
-        \n\nThe city encorporates GrossBasel on the left (southwest) side of the Rhine and
-        Kleinbasel (incorporating the old fishing village Kleinhüningen) on the right bank of the
-        Rhine. The center of the old town lies in Grossbasel around the market square – where the
-        town hall (built in 1504) stands – and the munster hill towering over the Pfalz-terrasse.
-        The \"Mittlere Brücke\" connects the old city on both sides of the Rhine. The city center is
-        freed from car traffic with public transport offered by tram. \n\nThe city is known for its
-        various internationally renowned museums, ranging from the Kunstmuseum, the first collection
-        of art accessible to the public in Europe, to the Fondation Beyeler (located in Riehen), and
-        its centuries long commitment to Humanism, offering a safe haven among others to Erasmus of
-        Rotterdam, the Holbein family, and more recently also to Hermann Hesse and Karl Jaspers.
-        Basel has been the seat of a Prince-Bishopric since the 11th century, and joined the Swiss
-        Confederacy in 1501. "</string>
-    <string name="basel_lat" translatable="false">47.559601</string>
-    <string name="basel_long" translatable="false">7.588576</string>
+    <string name="soldiermem_name">Memorial for fallen Soldier (1848)</string>
+    <string name="soldiermem_description">Memorial stone erected in the od cemetry for the soldiers who died during the siege of Freiburg in 1848. The grand duke ordered the stone, which was donated by the comrades of the fallen, to be turned so that the inscription could not be read from the road.\n\nInscription:\n\"In memory of those fallen at the assault on Freiburg on 24th April 1848, by their comrades-in-arms.\"</string>
+    <string name="soldiermem_lat" translatable="false">48.000625</string>
+    <string name="soldiermem_long" translatable="false">7.857602</string>
 
+    <string name="bombattack_name">Marks of the WW I Bomb Attack</string>
+    <string name="bombattack_description">Marks found on College Building I of the Freiubrg university, caused by the British bomb attack from 14th April 1917.</string>
+    <string name="bombattack_lat" translatable="false">47.993697</string>
+    <string name="bombattack_long" translatable="false">7.846094</string>
 
+    <string name="terrace_name">Memorial on the roof terrace of the Freiburg newspaper house:</string>
+    <string name="terrace_description">“War years 1914–1918\nAn hostile aerial bomb fell onto this roof on 12th October, 1916 at 8.45 pm. The left over fragments in the red stand stone are remnants of this event. All windows, even the big one in the office building, Kaiserstraße 119, were cracked. The whole parapet lay in the cul-de-sac. Even the automatic sanding machine  was damaged by the bomb. Our German fighter pilots accounted for seven hostile planes.”</string>
+    <string name="terrace_lat" translatable="false">47.99366</string>
+    <string name="terrace_long" translatable="false">7.849538</string>
+
+    <string name="oldtownhall_name">Plaque at the Old Town Hall</string>
+    <string name="oldtownhall_description">The NS- regime violently eliminated the municipal council and citizens committee as democratically elected representation of the Freiburg citizens in 1933. They were replaced by a “college of councilmen” of party members who had no democratic legitimacy and political authorisation. The national socialists demolished a century-old tradition of communal self-administration. This was only revived in 1946 with the first democratic election. A community council was constituted in the historic council hall on 22nd September 1946.\n\nWe honour and remember the Freiburg council and citizens, all members of the council and citizen committee, who fell victim to the state’s force and persecution by the NS-regime.\n\nFreiburg, 22nd September 2006\non the occasion of the 60. anniversary of the constitutional session of the first democratically elected council after WW II.\n\nThe Lord Mayor of Freiburg, Dr. Dieter Salomon\n\nThe counsellors of Freiburg</string>
+    <string name="oldtownhall_lat" translatable="false">47.99638</string>
+    <string name="oldtownhall_long" translatable="false">7.849243</string>
+
+    <string name="university_name">Where The Imperial Eagle once soared.</string>
+    <string name="university_description">Place at the wall of the university building where the eagle of the Third Reich once hung.</string>
+    <string name="university_lat" translatable="false">47.993806</string>
+    <string name="university_long" translatable="false">7.845594</string>
+
+    <string name="baslerhof_name">Basler Hof</string>
+    <string name="baslerhof_description">Commemorative plaque in the Basler Hof referring to Gestapo activities\n \n Inscription:\n \"In Memory\n The Basler Hof was the seat of the Secret State Police (Gestapo).\n Here people were summoned, interrogated, humiliated and tortured.\n We remember the victims of the national socialist terror regime and those citizens, who suffered in this house.\"</string>
+    <string name="baslerhof_lat" translatable="false">47.996481</string>
+    <string name="baslerhof_long" translatable="false">7.851881</string>
+
+    <string name="fahnenbergplatz_name">Fahnenbergplatz Memorial</string>
+    <string name="fahnenbergplatz_description">A large part of Freiburg was laid in ruins in the fateful night of bombing 27th November, 1944. The Unterlinden Quarter was particularly affected. Unexpectedly, an execptional time capsule was discovered during excavations at the Fahnenbergplatz.\n\nA furnished cellar survived under a layer of fire rubble, just as its inhabitants had left it:\n\nA wall rack contains flower pots, wine- and water bottles, burst due to the heat exposure. The inhabitants also kept plates and cutlery in cases and probably brought them downstairs for safe keeping.\n\nThe destruction was moulded using a three dimensional lack profile and thus perserved.\n\nDr. Bertram Jenisch\nregional council Freiburg\nRef. 26 – preservation of monuments</string>
+    <string name="fahnenbergplatz_lat" translatable="false">47.997615</string>
+    <string name="fahnenbergplatz_long" translatable="false">7.848594</string>
+
+    <string name="whiterose_name">Square of the white rose</string>
+    <string name="whiterose_description">Square of the white rose\nThey were members of a student resistance group against the national socialists from the Munich university and chose the “white rose” as their symbol. Sophie and Hans Scholl, Christoph Probst, Alexander Schmorell, Kurt Huber and Willi Graf were exectued in 1943. Their friends from Frebiurg, Heinz Bollinger and Helmut Bauer were sentenced to severe penal servitude.\n\nWar invalid students, e.g. Heinrich Kullmann and Gottfried von Dietze resisted as well, organising the so-called “crippled corps of the universtiy (kakadu)”. Even Freiburg Professors  who developed concepts for a economic and social system between 1938 and 1944 for the post war time joined them.\n\nTheir courage and commitment are a role model for our university.\n\nThis central “square of the white rose” is dedicated to all of them.</string>
+    <string name="whiterose_lat" translatable="false">47.994407</string>
+    <string name="whiterose_long" translatable="false">7.846499</string>
 </resources>

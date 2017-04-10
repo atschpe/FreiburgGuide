@@ -61,4 +61,6 @@ public class Place {
     public String getPlaceLong() {
         return PlaceLong;
     }
+
+    
 }

@@ -78,4 +78,6 @@ public class PlaceAdapter extends ArrayAdapter {
 
         return listViewItem;
     }
+
+
 }

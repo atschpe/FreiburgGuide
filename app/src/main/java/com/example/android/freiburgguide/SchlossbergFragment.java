@@ -62,6 +62,10 @@ public class SchlossbergFragment extends Fragment {
         places.add(new Place(R.drawable.schlossberg10, R.drawable.schlossberg10_full,
                 R.string.schlossberg10_name, R.string.schlossberg10_description,
                 getString(R.string.schlossberg10_lat), getString(R.string.schlossberg10_long)));
+        places.add(new Place(R.drawable.schlossberg_incorrect, R.drawable.schlossberg_incorrect_full,
+                R.string.schlossberg_incorrect_name, R.string.schlossberg_incorrect_description,
+                getString(R.string.schlossberg_incorrect_lat),
+                getString(R.string.schlossberg_incorrect_long)));
 
 
         //PlaceAdapter that uses the list of places as data source.

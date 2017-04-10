@@ -39,7 +39,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 2) {
             return new SchlossbergFragment();
         } else {
-            return new ExcursionFragment();
+            return new WarsFragment();
         }
     }
 
@@ -58,7 +58,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 2) {
             return mContext.getString(R.string.schlossberg_fragment);
         } else {
-            return mContext.getString(R.string.excursion_fragment);
+            return mContext.getString(R.string.wars_fragment);
         }
     }
 }
