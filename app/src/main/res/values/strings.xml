@@ -34,6 +34,16 @@ https://en.wikipedia.org/wiki/Basel
     <string name="citywall_lat" translatable="false">47.9937</string>
     <string name="citywall_long" translatable="false">7.852275</string>
 
+    <string name="hylacomylus_name">Hylacomylus Memorial</string>
+    <string name="hylacomylus_description">Here stood the parental home “zum Hechtkopf” of Martin Waldseemüller Hylacomylus ca. 1472–1522 printer, humanist and most important cosmograph of his time. His famous world map printed in St. Dié in 1507 showing the in 1492 discovered continent named by Matthias Ringmann-Phiesius Vogesigena for the first time.</string>
+    <string name="hylacomylus_lat" translatable="false">47.993561</string>
+    <string name="hylacomylus_long" translatable="false">7.847436</string>
+
+    <string name="wucherstier_name">zum Wucherstier</string>
+    <string name="wucherstier_description">Mentioned 1449 the house “zum Wucherstier” (the usury taurus) was modified for the Domincan nuns of the destroyed cloister “auf dem Graben” (on the trench) in the Lehen suburb to the cloister of St. Katharina de Senia. It was secularised in 1786.</string>
+    <string name="wucherstier_lat" translatable="false">47.996308</string>
+    <string name="wucherstier_long" translatable="false">7.847594</string>
+
     <string name="kaufhaus_name">Historic Merchants Hall</string>
     <string name="kaufhaus_description">The Historic Merchants Hall in Freiburg dates to 1520–21. The front facade is decorated with statues and coats of arms that were sculpted between 1520 and 1531 by Sixt von Staufen. The sculpted figures under baldachins show Emperor Maximilian I, King Philipp the Beautiful of Castile, Emperor Charles V and Emperor Ferdinand I - all Hapsburgs.</string>
     <string name="kaufhaus_lat" translatable="false">47.994953</string>
@@ -63,6 +73,11 @@ https://en.wikipedia.org/wiki/Basel
     <string name="rectory_description">“Rectory St. Martin \nFranciscan monastery until 1874. Berthold Schwarz and Thomas Murner (†1537) were occupants. Engelbert Küpfel died in the rectory in 1911. The folk writer Heinrich Hansjakob lived here as town pastor 1884–1913.”</string>
     <string name="rectory_lat" translatable="false">47.996046</string>
     <string name="rectory_long" translatable="false">7.84986</string>
+
+    <string name="bachhus_name">Wash- and Bake-House</string>
+    <string name="bachhus_description">Wash- and Bake-house (called Bachhus)\n\nThe farm houses in Zähringen, which were restored soon after the 30-year war around 1660 on both sides of the village creek, created an ensemble with the Wash- and Bake-houses, which were built around the same time. In these small buildings, called “Bachhus” by the locals, they washed, baked, slaughtered, cooked, distilled schnaps, stored fruit, held small animals and did many other house and agricultural things. Any required water was taken from the creek or the deep wells of the plot. Sewage was conceded to the creek. The “Wash- and Bake-house” Was always at the center of life at the farmsteads.\nThis small building is a true to scale reconstruction of the Wash- and Bake-house that was demolished at the same location in 1999 and which was ca. 300 years old. The visible natural stones are from this old building. It reminds of a centuries old traditional architecture and occupation of the Zähringer citizens.\n\nCivic organisation Zähringen</string>
+    <string name="bachhus_lat" translatable="false">48.022779</string>
+    <string name="bachhus_long" translatable="false">7.86067</string>
 
     <string name="rosenzweig_name">Rosenzweig Plaque</string>
     <string name="rosenzweig_description">Franz Rosenzweig 1886–1929, Jewish philosopher and pioneer for a new brotherhood between Christians and Jews, lived here as a student.</string>
@@ -103,6 +118,16 @@ https://en.wikipedia.org/wiki/Basel
     <string name="fehsenfeld_description">Wallstraße 10, Freiburg: plaque: the edition of Friedrich Ernst Fehsenfeld (1853–1933) was seated here from 1890–1895, which published the ‘Freiburg Edition’ of the works by Karl May.</string>
     <string name="fehsenfeld_lat" translatable="false">47.992006</string>
     <string name="fehsenfeld_long" translatable="false">7.851907</string>
+
+    <string name="flood_name">Memorial to flood victims</string>
+    <string name="flood_description">In the night of 8th/9th March 1896 were killed by the collapse caused by the floods whilst doing their duty:\nLord regional police inspector, senior counsellor  Carl Siegel\nand\nLord head of office, counsellor Leopold Sonntag.\nWe honour their memory.</string>
+    <string name="flood_lat" translatable="false">47.991064</string>
+    <string name="flood_long" translatable="false">7.854267</string>
+
+    <string name="support_name">Memorial at Uracherstraße 40</string>
+    <string name="support_description">After WW II  a wooden barrack was setup at the old Wiehre station for a distribution centre for relief goods from abroad.\n\nRegardless of the crimes and war terror caused by Germans and which stemmed from Germany foreign help services cared for the suffering Freiburg people between 1948 and 1949 providing life saving goods.\n\nOver 2000 Freiburg children received student meals bei the Basel Caritas federation organised by SWISS DONATION.\nSmall children their mothers and pregnant women recevied food and clothing from the AMERICAN QUAKER HELP.\nCARE-Pakets were also distributed in the barracks at the old Wiehre-station thanks to the support by Sparkasse.\nFurther support was offered by Sweden, Ireland, Spain, Brasil and Argentinia.\n\nFreiburg remember the benedictory help offered by Marth Walz-Birrer and Franz Blum from Switzerland, Harry Pfund from the USA and Arne Torgersen from Norway along with their helpers.\n\n<b>The donations from abroad saved many Freiburg citizens not only from illness and death but also gave them renewed courage to face life.\nThe acts by all helpers sind momentos for a better world without hunger and ethic hatred.</b></string>
+    <string name="support_lat" translatable="false">47.984728</string>
+    <string name="support_long" translatable="false">7.853936</string>
 
     <!-- Jewish history-->
     <string name="gurs_name">Gurs Memorial Sign Post</string>

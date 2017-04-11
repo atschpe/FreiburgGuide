@@ -29,9 +29,15 @@ public class HistoryFragment extends Fragment {
         places.add(new Place(R.drawable.citywall, R.drawable.citywall_full, R.string.citywall_name,
                 R.string.citywall_description, getString(R.string.cemetry_lat),
                 getString(R.string.cemetry_long)));
+        places.add(new Place(R.drawable.hylacomylus, R.drawable.hylacomylus_full,
+                R.string.hylacomylus_name, R.string.hylacomylus_description,
+                getString(R.string.hylacomylus_lat), getString(R.string.hylacomylus_long)));
         places.add(new Place(R.drawable.kaufhaus, R.drawable.kaufhaus_full, R.string.kaufhaus_name,
                 R.string.kaufhaus_description, getString(R.string.kaufhaus_lat),
                 getString(R.string.kaufhaus_long)));
+        places.add(new Place(R.drawable.wucherstier, R.drawable.wucherstier_full,
+                R.string.wucherstier_name, R.string.wucherstier_description,
+                getString(R.string.wucherstier_lat), getString(R.string.wucherstier_long)));
         places.add(new Place(R.drawable.gerichtslaube, R.drawable.gerichtslaube_full,
                 R.string.gerichtslaube_name, R.string.gerichtslaube_description,
                 getString(R.string.gerichtslaube_lat), getString(R.string.gerichtslaube_long)));
@@ -44,6 +50,9 @@ public class HistoryFragment extends Fragment {
         places.add(new Place(R.drawable.rectory, R.drawable.rectory_full, R.string.rectory_name,
                 R.string.rectory_description, getString(R.string.rectory_lat),
                 getString(R.string.rectory_long)));
+        places.add(new Place(R.drawable.bachhus, R.drawable.bachhus_full, R.string.bachhus_name,
+                R.string.bachhus_description, getString(R.string.bachhus_lat),
+                getString(R.string.bachhus_long)));
         places.add(new Place(R.drawable.schwabentor, R.drawable.schwabentor_full,
                 R.string.schwabentor_name, R. string.schwabentor_description,
                 getString(R.string.schwabentor_lat), getString(R.string.schwabentor_long)));
@@ -74,6 +83,12 @@ public class HistoryFragment extends Fragment {
         places.add(new Place(R.drawable.fehsenfeld, R.drawable.fehsenfeld_full,
                 R.string.fehsenfeld_name, R.string.fehsenfeld_description,
                 getString(R.string.fehsenfeld_lat), getString(R.string.fehsenfeld_long)));
+        places.add(new Place(R.drawable.flood, R.drawable.flood_full, R.string.flood_name,
+                R.string.flood_description, getString(R.string.flood_lat),
+                getString(R.string.flood_long)));
+        places.add(new Place(R.drawable.support, R.drawable.support_full, R.string.support_name,
+                R.string.support_description, getString(R.string.support_lat),
+                getString(R.string.support_long)));
 
         //PlaceAdapter that uses the list of places as data source.
         PlaceAdapter pa = new PlaceAdapter(getContext(), places);
