@@ -12,13 +12,13 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class FragmentAdapter extends FragmentPagerAdapter {
 
-    //App context
+    //App ctxt
     private Context mContext;
 
     /**
      * Create a new {@link FragmentAdapter} object.
      *
-     * @param context is the app context.
+     * @param context is the app ctxt.
      * @param fm      is the fragment manager keeping the state of each fragment in the adapter
      *                during swipes.
      */
@@ -38,15 +38,17 @@ public class FragmentAdapter extends FragmentPagerAdapter {
             return new JewFragment();
         } else if (position == 2) {
             return new SchlossbergFragment();
-        } else {
+        } else if (position == 3) {
             return new WarsFragment();
+        } else {
+            return new VicinityFragment();
         }
     }
 
     // Total number of pages.
     @Override
     public int getCount() {
-        return 4;
+        return 5;
     }
 
     @Override
@@ -57,8 +59,10 @@ public class FragmentAdapter extends FragmentPagerAdapter {
             return mContext.getString(R.string.jew_fragment);
         } else if (position == 2) {
             return mContext.getString(R.string.schlossberg_fragment);
-        } else {
+        } else if (position == 3) {
             return mContext.getString(R.string.wars_fragment);
+        } else {
+            return mContext.getString(R.string.vicinity_fragment);
         }
     }
 }

@@ -5,9 +5,12 @@
     android:background="@color/colorPrimaryLight"
     android:orientation="vertical">
 
+    <!--User can scroll through the provided information. Constant visibility of the scrollbar
+    ensures they know more text/information is available. -->
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        android:scrollbarFadeDuration="0"
         android:layout_weight="1"
         android:padding="10dp">
 

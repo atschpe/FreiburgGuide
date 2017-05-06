@@ -6,17 +6,17 @@ package com.example.android.freiburgguide;
  */
 public class Place {
 
-    private int PlaceThumbnail;
+    private int thumbnail;
 
-    private int PlaceImage;
+    private int image;
 
-    private int PlaceName;
+    private int name;
 
-    private int PlaceDescription;
+    private int description;
 
-    private String PlaceLat;
+    private String latitude;
 
-    private String PlaceLong;
+    private String longitude;
 
     /**
      * Create a new {@link Place} object.
@@ -25,42 +25,42 @@ public class Place {
      * @param placeImage       is a drawable image of the place, to help the user recognise it.
      * @param placeName        is the name of the place to view.
      * @param placeDescription is a description about the place.
-     * @param placeLat         is the latitude of the place.
-     * @param placeLong        is the longitude of the place.
+     * @param placeLatitude    is the latitude of the place.
+     * @param placeLongitude   is the longitude of the place.
      */
     public Place(int placeThumbnail, int placeImage, int placeName, int placeDescription,
-                 String placeLat, String placeLong) {
-        PlaceThumbnail = placeThumbnail;
-        PlaceImage = placeImage;
-        PlaceName = placeName;
-        PlaceDescription = placeDescription;
-        PlaceLat = placeLat;
-        PlaceLong = placeLong;
+                 String placeLatitude, String placeLongitude) {
+        thumbnail = placeThumbnail;
+        image = placeImage;
+        name = placeName;
+        description = placeDescription;
+        latitude = placeLatitude;
+        longitude = placeLongitude;
     }
 
-    public int getPlaceThumbnail() {
-        return PlaceThumbnail;
+    public int getThumbnail() {
+        return thumbnail;
     }
 
-    public int getPlaceImage() {
-        return PlaceImage;
+    public int getImage() {
+        return image;
     }
 
-    public int getPlaceName() {
-        return PlaceName;
+    public int getName() {
+        return name;
     }
 
-    public int getPlaceDescription() {
-        return PlaceDescription;
+    public int getDescription() {
+        return description;
     }
 
-    public String getPlaceLat() {
-        return PlaceLat;
+    public String getLatitude() {
+        return latitude;
     }
 
-    public String getPlaceLong() {
-        return PlaceLong;
+    public String getLongitude() {
+        return longitude;
     }
 
-    
+
 }

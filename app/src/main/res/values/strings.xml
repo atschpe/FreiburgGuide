@@ -5,14 +5,6 @@ https://de.wikipedia.org/wiki/Geschichte_der_Stadt_Freiburg_im_Breisgau
 https://www.geocaching.com/geocache/GC2D7V6_freiburger-geschichten-blutiges-ostern?guid=5ac1433e-f9af-4cdc-97f3-7d602c215061
 https://de.wikipedia.org/wiki/Geschichte_der_Juden_in_Freiburg_im_Breisgau
 https://commons.wikimedia.org/wiki/Category:Plaques_in_Freiburg_im_Breisgau
-https://en.wikipedia.org/wiki/Colmar
-https://en.wikipedia.org/wiki/Strasbourg
-https://en.wikipedia.org/wiki/Europa-Park
-https://commons.wikimedia.org/wiki/File:Staufen_-_Burgruine_Staufen.jpg
-https://commons.wikimedia.org/wiki/Category:Schauinsland_(Schwarzwald)
-https://commons.wikimedia.org/wiki/Category:Titisee
-https://commons.wikimedia.org/wiki/Category:Schluchsee
-https://en.wikipedia.org/wiki/Basel
 -->
 <resources>
     <!-- App name [CHAR-LIMIT=20} -->
@@ -25,8 +17,9 @@ https://en.wikipedia.org/wiki/Basel
     <!-- Fragment titles [CHAR-LIMIT=20} -->
     <string name="history_fragment">City History</string>
     <string name="jew_fragment">Jewish History</string>
-    <string name="schlossberg_fragment">Schlossberg</string>
+    <string name="schlossberg_fragment">Schloßberg History</string>
     <string name="wars_fragment">War History</string>
+    <string name="vicinity_fragment">Near By</string>
 
     <!-- City History-->
     <string name="citywall_name">Old City Wall</string>
@@ -342,4 +335,8 @@ https://en.wikipedia.org/wiki/Basel
     <string name="whiterose_description">Square of the white rose\nThey were members of a student resistance group against the national socialists from the Munich university and chose the “white rose” as their symbol. Sophie and Hans Scholl, Christoph Probst, Alexander Schmorell, Kurt Huber and Willi Graf were exectued in 1943. Their friends from Frebiurg, Heinz Bollinger and Helmut Bauer were sentenced to severe penal servitude.\n\nWar invalid students, e.g. Heinrich Kullmann and Gottfried von Dietze resisted as well, organising the so-called “crippled corps of the universtiy (kakadu)”. Even Freiburg Professors  who developed concepts for a economic and social system between 1938 and 1944 for the post war time joined them.\n\nTheir courage and commitment are a role model for our university.\n\nThis central “square of the white rose” is dedicated to all of them.</string>
     <string name="whiterose_lat" translatable="false">47.994407</string>
     <string name="whiterose_long" translatable="false">7.846499</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nothing_nearby">There are no places lists near by.</string>
 </resources>

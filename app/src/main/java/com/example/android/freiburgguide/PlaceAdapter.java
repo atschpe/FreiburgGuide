@@ -49,15 +49,15 @@ public class PlaceAdapter extends ArrayAdapter {
 
         //Locate ImageView for the current place in the list_item layout.
         ImageView placeThumbnail = (ImageView) listViewItem.findViewById(R.id.place_thumbnail);
-        placeThumbnail.setImageResource(currentPlace.getPlaceThumbnail());
+        placeThumbnail.setImageResource(currentPlace.getThumbnail());
 
         //Locate TextView for the current place name in the list_item.
         TextView placeName = (TextView) listViewItem.findViewById(R.id.place_name);
-        placeName.setText(currentPlace.getPlaceName());
+        placeName.setText(currentPlace.getName());
 
         //Locate TextView for the current place description in the list_item.
         TextView placeDescription = (TextView) listViewItem.findViewById(R.id.place_description);
-        placeDescription.setText(currentPlace.getPlaceDescription());
+        placeDescription.setText(currentPlace.getDescription());
 
         listViewItem.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -65,19 +65,16 @@ public class PlaceAdapter extends ArrayAdapter {
                 Intent i = new Intent(getContext(), InfoActivity.class);
 
                 Bundle placeBundle = new Bundle();
-                placeBundle.putInt("place image", currentPlace.getPlaceImage());
-                placeBundle.putInt("place name", currentPlace.getPlaceName());
-                placeBundle.putInt("place description", currentPlace.getPlaceDescription());
-                placeBundle.putString("place lat", currentPlace.getPlaceLat());
-                placeBundle.putString("place long", currentPlace.getPlaceLong());
+                placeBundle.putInt("place image", currentPlace.getImage());
+                placeBundle.putInt("place name", currentPlace.getName());
+                placeBundle.putInt("place description", currentPlace.getDescription());
+                placeBundle.putString("place lat", currentPlace.getLatitude());
+                placeBundle.putString("place long", currentPlace.getLongitude());
 
                 i.putExtras(placeBundle);
                 getContext().startActivity(i);
             }
         });
-
         return listViewItem;
     }
-
-
 }
