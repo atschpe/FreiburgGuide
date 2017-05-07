@@ -1,6 +1,5 @@
 package com.example.android.freiburgguide;
 
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -13,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  * A {@link Fragment} subclass allowing the user to search {@link Place} objects from the list near
- * their userLocation.
+ * their location.
  */
 public class VicinityFragment extends Fragment {
 
@@ -21,8 +20,7 @@ public class VicinityFragment extends Fragment {
         // Required empty public constructor
     }
 
-    //Access the Vicinity Locator.
-    VicinityLocator vl = new VicinityLocator(getContext());
+    VicinityLocator vl;
 
     ArrayList<Place> filteredPlaces;
 
@@ -31,9 +29,14 @@ public class VicinityFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.place_list, container, false);
 
+        //Access the Vicinity Locator.
+        vl = new VicinityLocator(getContext());
+
         PlaceList pl = new PlaceList(getContext());
         ArrayList<Place> places = pl.getPlacesAll();
 
+        //A list to store the places that are in the vicinity of the user.
+        filteredPlaces = new ArrayList<>();
 
         //get the lat./long. coordinates for each place in the list and only display those within
         // 100m od the user.
@@ -54,13 +57,11 @@ public class VicinityFragment extends Fragment {
         //PlaceAdapter that uses the list of places as data source.
         PlaceAdapter pa = new PlaceAdapter(getContext(), filteredPlaces);
 
-        if (pa.isEmpty()) {
-            // Locate the listview "list" in place_list.xml and set it to the adapter.
-            ListView lv = (ListView) rootView.findViewById(R.id.list);
-            lv.setAdapter(pa);
-        }
+        ListView lv = (ListView) rootView.findViewById(R.id.list);
+        lv.setAdapter(pa);
+
         TextView nothingNearby = (TextView) rootView.findViewById(R.id.nothing_nearby);
-        nothingNearby.setVisibility(View.VISIBLE);
+        lv.setEmptyView(nothingNearby);
 
         return rootView;
     }

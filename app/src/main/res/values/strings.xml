@@ -336,7 +336,5 @@ https://commons.wikimedia.org/wiki/Category:Plaques_in_Freiburg_im_Breisgau
     <string name="whiterose_lat" translatable="false">47.994407</string>
     <string name="whiterose_long" translatable="false">7.846499</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="nothing_nearby">There are no places lists near by.</string>
+    <string name="nothing_nearby">There are no places listed near by.</string>
 </resources>

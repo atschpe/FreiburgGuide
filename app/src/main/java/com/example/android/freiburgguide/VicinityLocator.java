@@ -44,8 +44,8 @@ public class VicinityLocator extends Service implements LocationListener {
     public float distanceCalculator(double placeLatitude, double placeLongitude) {
        //For testing: position of Freiburger Münster
         Location testingLocation = new Location("Testing Location");
-        testingLocation.setLatitude(47.995581);
-        testingLocation.setLongitude(7.582811);
+        testingLocation.setLatitude(47.995489);
+        testingLocation.setLongitude(7.852983);
 
         Location placeLocation = new Location("Place Location");
 

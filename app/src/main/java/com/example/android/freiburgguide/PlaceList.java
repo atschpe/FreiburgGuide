@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  * The {@link Place} object lists provided by this app along with the sublists accessed by the
- * fragments. Updated
+ * fragments.
  */
 
 public class PlaceList {
