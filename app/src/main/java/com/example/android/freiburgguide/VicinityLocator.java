@@ -21,19 +21,24 @@ public class VicinityLocator extends Service implements LocationListener {
 
     private final Context ctxt;
 
+    //booleans to check for gps or network.
     boolean hasGps = false;
-
     boolean hasNetwork = false;
 
+    //ensure location can be retrieved.
     boolean canGetLocation = false;
 
+    //to store the users location
     Location userLocation;
-    double latitude;
-    double longitude;
 
+    //to store lat. & long. coordinates
+    double latitude, longitude;
+
+    //as 100m is the vicinity searched in, any updates should be in the same distance.
     private static final long MIN_DISTANCE_CHANGE_FOR_UPDATES = 100;
 
-    private static final long MIN_TIME_BW_UPDATES = 1000;
+    //As the user is on foot, the time between updates can be at a slow rate of every 10 minutes.
+    private static final long MIN_TIME_BW_UPDATES = 10;
     protected LocationManager lm;
 
     public VicinityLocator(Context context) {
@@ -42,7 +47,7 @@ public class VicinityLocator extends Service implements LocationListener {
     }
 
     public float distanceCalculator(double placeLatitude, double placeLongitude) {
-       //For testing: position of Freiburger Münster
+       //For testing: position of Freiburger Münster (let's just assume our user is standing there).
         Location testingLocation = new Location("Testing Location");
         testingLocation.setLatitude(47.995489);
         testingLocation.setLongitude(7.852983);
@@ -73,7 +78,7 @@ public class VicinityLocator extends Service implements LocationListener {
                 showSettingsAlert();
             } else {
                 this.canGetLocation = true;
-                // First get userLocation from Network Provider
+                // Get lat.& long. either through network or gps provider.
                 if (hasNetwork) {
                     try {
                         lm.requestLocationUpdates(LocationManager.NETWORK_PROVIDER,
@@ -92,7 +97,6 @@ public class VicinityLocator extends Service implements LocationListener {
                     }
                 }
 
-                // if GPS Enabled get lat/long using GPS Services
                 if (hasGps) {
                     if (userLocation == null) {
                         try {
@@ -104,7 +108,6 @@ public class VicinityLocator extends Service implements LocationListener {
                                 if (userLocation != null) {
                                     latitude = userLocation.getLatitude();
                                     longitude = userLocation.getLongitude();
-                                    Log.v("VicinityLocator", "Latitude: " + latitude + "Longitude: " + longitude);
                                 }
                             }
                         } catch (SecurityException e) {
@@ -142,18 +145,18 @@ public class VicinityLocator extends Service implements LocationListener {
     public void showSettingsAlert() {
         AlertDialog.Builder alertDialog = new AlertDialog.Builder(ctxt);
 
-        alertDialog.setTitle("GPS Not Enabled");
+        alertDialog.setTitle(R.string.GPS_not_enabled);
 
-        alertDialog.setMessage("Do you wants to turn On GPS?");
+        alertDialog.setMessage(R.string.turnon_gps);
 
-        alertDialog.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+        alertDialog.setPositiveButton(R.string.yes, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
                 Intent intent = new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS);
                 ctxt.startActivity(intent);
             }
         });
 
-        alertDialog.setNegativeButton("No", new DialogInterface.OnClickListener() {
+        alertDialog.setNegativeButton(R.string.no, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
                 dialog.cancel();
             }

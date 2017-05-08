@@ -2,6 +2,8 @@ package com.example.android.freiburgguide;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -55,13 +57,25 @@ public class VicinityFragment extends Fragment {
         }
 
         //PlaceAdapter that uses the list of places as data source.
-        PlaceAdapter pa = new PlaceAdapter(getContext(), filteredPlaces);
+        PlaceAdapter pa = new PlaceAdapter(getContext(), R.layout.list_item, filteredPlaces);
 
-        ListView lv = (ListView) rootView.findViewById(R.id.list);
-        lv.setAdapter(pa);
+        // Locate the listview "list" in place_list.xml, set layout manager and set
+        // it to the adapter.
+        RecyclerView lv = (RecyclerView) rootView.findViewById(R.id.list);
 
-        TextView nothingNearby = (TextView) rootView.findViewById(R.id.nothing_nearby);
-        lv.setEmptyView(nothingNearby);
+        //create a standard LayoutManager for the RecyclerView.
+        RecyclerView.LayoutManager lm = new LinearLayoutManager(getContext());
+
+        if (!filteredPlaces.isEmpty()) {
+            lv.setHasFixedSize(false); //depending on the location of the user this can change.
+            lv.setLayoutManager(lm);
+            lv.setAdapter(pa);
+        } else {
+
+            TextView nothingNearby = (TextView) rootView.findViewById(R.id.nothing_nearby);
+            nothingNearby.setVisibility(View.VISIBLE);
+            lv.setVisibility(View.GONE);
+        }
 
         return rootView;
     }
